@@ -2,5 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 .DS_Store
-.swp
-.swo
+*swp
+*swo
