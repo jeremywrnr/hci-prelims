@@ -1,6 +1,8 @@
 berkeley cs hci prelims
 =======================
 
+eventually this will be used to sort out papers.
+
 from: http://people.eecs.berkeley.edu/~bjoern/prelims
 
 You will be responsible for material from CS160 and CS260, and a short list of
@@ -12,7 +14,7 @@ papers that are not covered in CS160 or CS260 (yet):
 
 ERB templating: http://www.stuartellis.name/articles/erb/
 
-raw: [link](/papers.yaml)
+raw link to YAML papers: [link](/papers.yaml)
 
 ## Changes
 
