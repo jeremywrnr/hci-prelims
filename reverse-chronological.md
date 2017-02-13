@@ -2,9 +2,9 @@
 layout: home
 ---
 
-[from newest to oldest]({{ site.baseurl }}/reverse-chronological)
+[from oldest to newest]({{ site.baseurl }}/chronological)
 
-{% assign time_sort = site.data.papers.papers | sort: 'year' %}
+{% assign time_sort = site.data.papers.papers | sort: 'year' | reverse %}
 
 <ul>
 {% for paper in time_sort %}

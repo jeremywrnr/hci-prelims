@@ -2,8 +2,8 @@
 title: prelims
 email: ""
 description: ""
-baseurl: ""
-url: ""
+baseurl: "/hci-prelims"
+url: "https://jeremywrnr.com"
 
 # Build settings
 markdown: kramdown

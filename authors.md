@@ -2,10 +2,12 @@
 layout: home
 ---
 
+{% assign author_sort = site.data.papers.papers | sort:'author' %}
+
 <ul>
-{% for paper in site.data.papers %}
+{% for paper in author_sort %}
     <li>
-    {{ paper.author }} - {{ paper.title }} - {{ paper.year }}
+    <b>{{ paper.author }}</b> - {{ paper.title }} - {{ paper.year }}
     </li>
 {% endfor %}
 </ul>

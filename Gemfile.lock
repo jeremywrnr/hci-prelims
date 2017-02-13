@@ -33,7 +33,6 @@ GEM
       jekyll (~> 3.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
-    psych (2.2.2)
     public_suffix (2.0.5)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
@@ -49,7 +48,6 @@ DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
-  psych
 
 RUBY VERSION
    ruby 2.4.0p0
