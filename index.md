@@ -1,6 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# prelim papers
+
+[by time](/chronological)
+[by author](/authors)
+[by topic](/topics)
+

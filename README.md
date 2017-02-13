@@ -1,5 +1,5 @@
-berkeley cs hci prelims
-=======================
+[berkeley cs hci prelims][view]
+===============================
 
 eventually this will be used to sort out papers.
 
@@ -14,9 +14,12 @@ papers that are not covered in CS160 or CS260 (yet):
 
 ERB templating: http://www.stuartellis.name/articles/erb/
 
-raw link to YAML papers: [link](/papers.yaml)
+raw link to YAML papers: [link](/_data/papers.yaml)
 
-## Changes
+[view]:https://jeremywrnr.com/hci-prelims/
+
+
+## paper changelog
 
 - 2015-06-02: Updated reading list based on feedback from students and recent research developments:
 - The full list of readings we will ask about is now listed on this page.
