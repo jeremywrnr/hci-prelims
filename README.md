@@ -3,7 +3,7 @@
 
 eventually this will be used to sort out papers or maybe to have some
 visualization of the conceptual connections between them. there is also a
-[simple ruby script](/_/data/parse.rb) to parse the YAML in order to help with
+[simple ruby script](/_data/parse.rb) to parse the YAML in order to help with
 this.
 
 - from: http://people.eecs.berkeley.edu/~bjoern/prelims

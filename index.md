@@ -12,7 +12,8 @@ extra
 - [github repo](https://github.com/jeremywrnr/hci-prelims)
 - [from bjoern](http://people.eecs.berkeley.edu/~bjoern/prelims)
 
-<!--todo-->
+<!--todos-->
 <!--- [by topic]({{ site.baseurl }}/topics)-->
-<!--- [by publoc]({{ site.baseurl }}/publocs)-->
+<!--- [by publisher]({{ site.baseurl }}/publishers)-->
+<!--other more interesting groupings-->
 
