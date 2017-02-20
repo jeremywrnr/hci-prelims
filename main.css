@@ -1,0 +1,35 @@
+body {
+  font: 400 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #fdfdfd;
+  padding: 1em;
+  color: #424242;
+}
+
+ul, ol {
+  margin-left: 30px;
+}
+
+img {
+  vertical-align: middle;
+  max-width: 100%;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #2a7ae2;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #424242;
+}
+
+.site-title, .site-title:visited {
+  font-size: 50px;
+  color: #424242;
+}
+
+.post-title, .post-title:visited {
+  font-size: 30px;
+}
+

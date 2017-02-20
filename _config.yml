@@ -1,13 +1,11 @@
-# Site settings
-title: prelims
-email: ""
-description: ""
-baseurl: "/hci-prelims"
-url: "https://jeremywrnr.com"
+title: hci prelim material
+email: "jeremy.warner@berkeley.edu"
+description: "HCI prelim study materials"
 
-# Build settings
+url: "https://jeremywrnr.com"
+baseurl: "/hci-prelims"
+
 markdown: kramdown
-theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock

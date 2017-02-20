@@ -1,8 +1,9 @@
 ---
-layout: home
+layout: post
+title: from oldest to newest
 ---
 
-[from newest to oldest]({{ site.baseurl }}/reverse-chronological)
+related: [from newest to oldest]({{ site.baseurl }}/reverse-chronological)
 
 {% assign time_sort = site.data.papers.papers | sort: 'year' %}
 
