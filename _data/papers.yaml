@@ -10,44 +10,50 @@ papers:
     class: 160
     year: 2013
   -
-    year: 9999
-    author: Hutchins
-    title: Hollan, Norman. Direct Manipulation Interfaces, (also assigned in CS260)
+    year: 1985
+    author: Edwin Hutchins, James Hollan, Don Norman
+    title: Direct Manipulation Interfaces
+    link: https://drive.google.com/a/berkeley.edu/file/d/0B76vkOGLgqvjOWtTaVNoOG9aaE0/view?usp=sharing
     class: 160
   -
-    year: 9999
+    year: 2000
     author: Raskin
     title: "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention, 3,4 - Quantification."
     class: 160
   -
-    year: 9999
-    author: Hinckle
-    title: and Wigdor, Input Technologies and Techniques (also assigned in CS260)
+    year: 2012
+    author: Ken Hinckley, Daniel Wigdor
+    title: Input Technologies and Techniques
     class: 160
   -
-    year: 9999
-    author: Card
-    title: Moran and Newell, The Model Human Processor. Ch2 of The Psychology of Human-Computer Interaction.
+    year: 1983
+    author: Stuart Card, Thomas Moran, Allen Newell
+    title: The Model Human Processor. Ch2 of The Psychology of Human-Computer Interaction.
     class: 160
   -
-    year: 9999
-    author: Card
-    title: Mackinlay, Schneiderman. Readings in Information Visualization. Chapter 1- Information Visualization.
+    year: 1999
+    author: Stuart Card, Jock Mackinlay, Ben Schneiderman
+    title: Readings in Information Visualization. Chapter 1- Information Visualization.
     class: 160
   -
-    year: 9999
-    author: Martin
+    year: 1977
+    author: David Martin
     title: "Doing Psychology Experiments. (Chapter 2 and Chapter 12 are especially relevant, but the whole book is worthwhile. Alternatively: other readings on the scientific method and inferential statistics.)"
     class: 160
   -
-    year: 9999
-    author: Beye and Holtzblatt
-    title: "Contextual Inquiry, Ch 3: Principles of Contextual Inquiry."
+    year: 1998
+    author: Hugh Beyer, Karen Holtzblatt
+    title: "Contextual Design, Ch 3: Principles of Contextual Inquiry."
     class: 160
   -
-    year: 9999
+    year: 1994
     author: Nielsen
-    title: How to Conduct a Heuristic Evaluation and 10 Usability Heuristics.
+    title: How to Conduct a Heuristic Evaluation
+    class: 160
+  -
+    year: 1994
+    author: Nielsen
+    title: 10 Usability Heuristics.
     class: 160
   -
     year: 9999
