@@ -13,6 +13,7 @@ extra
 - [github repo](https://github.com/jeremywrnr/hci-prelims)
 - [from bjoern](http://people.eecs.berkeley.edu/~bjoern/prelims)
 - [from canny](https://people.eecs.berkeley.edu/~jfc/hci-prelim-syllabus.html)
+- [paper viz](https://github.com/ssterman/prelim_viz)
 
 <!--todos-->
 <!--- [by topic]({{ site.baseurl }}/topics)-->
