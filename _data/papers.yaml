@@ -7,6 +7,7 @@ papers:
   -
     author: Don Norman
     title: "The Design of Everyday Things. Chapter 1: The Psychology of Everyday Things (2013 version)"
+    link:
     class: 160
     year: 2013
   -
@@ -20,7 +21,7 @@ papers:
     author: Raskin
     title: "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention, 3,4 - Quantification."
     class: 160
-    
+
   -
     year: 2000
     author: Raskin
@@ -44,7 +45,8 @@ papers:
   -
     year: 1977
     author: David Martin
-    title: "Doing Psychology Experiments. (Chapter 2 and Chapter 12 are especially relevant, but the whole book is worthwhile. Alternatively: other readings on the scientific method and inferential statistics.)"
+    title: "Doing Psychology Experiments. (Chapter 2 and Chapter 12)"
+    note: 2 and 12 are especially relevant, but the whole book is worthwhile. Alternatively, other readings on the scientific method and inferential statistics.
     class: 160
   -
     year: 1998
@@ -77,6 +79,7 @@ papers:
     title: As We May Think
     author: Vannevar Bush
     publisher: The Atlantic Monthly, July 1945.
+    link: https://drive.google.com/file/d/0B76vkOGLgqvjRDJsMTR3S2M3LXM/view
     class: 260
   -
     year: 1985
@@ -110,7 +113,7 @@ papers:
     class: 260
   -
     year: 1993
-    title: Interacting with paper on the DigitalDesk 
+    title: Interacting with paper on the DigitalDesk
     author: Pierre Wellner
     publisher: Communications of the ACM 36, Issue 7 (Jul. 1993), pp.87-96.
     link: https://dl.acm.org/citation.cfm?id=159630
@@ -119,7 +122,7 @@ papers:
     year: 2005
     author: Jefferson Han
     title: Low-cost multi-touch sensing through frustrated total internal reflection.
-    publisher: In Proceedings of UIST 2005. 
+    publisher: In Proceedings of UIST 2005.
     pages: 115-118
     class: 260
   -

@@ -10,9 +10,13 @@ related: [from newest to oldest]({{ site.baseurl }}/reverse-chronological)
 <ul>
 {% for paper in time_sort %}
     <li>
+    {% if paper.link %} <a href="{{paper.link}}"> {% endif %}
+
     <b>{{ paper.year }}</b>
     - <i>{{ paper.author }}</i>
     - {{ paper.title }}
+
+    {% if paper.link %} </a> {% endif %}
     </li>
 {% endfor %}
 </ul>

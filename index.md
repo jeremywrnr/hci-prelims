@@ -12,6 +12,7 @@ extra
 - [google drive](https://drive.google.com/drive/u/2/folders/0B76vkOGLgqvjcGVWWmZNS0NFeE0)
 - [github repo](https://github.com/jeremywrnr/hci-prelims)
 - [from bjoern](http://people.eecs.berkeley.edu/~bjoern/prelims)
+- [from canny](https://people.eecs.berkeley.edu/~jfc/hci-prelim-syllabus.html)
 
 <!--todos-->
 <!--- [by topic]({{ site.baseurl }}/topics)-->

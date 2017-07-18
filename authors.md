@@ -8,7 +8,13 @@ title: from authors a-z
 <ul>
 {% for paper in author_sort %}
     <li>
-    <b>{{ paper.author }}</b> - {{ paper.title }} - {{ paper.year }}
+    {% if paper.link %} <a href="{{paper.link}}"> {% endif %}
+
+    <b>{{ paper.year }}</b>
+    - <i>{{ paper.author }}</i>
+    - {{ paper.title }}
+
+    {% if paper.link %} </a> {% endif %}
     </li>
 {% endfor %}
 </ul>
