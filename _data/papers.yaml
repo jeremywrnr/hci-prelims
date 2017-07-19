@@ -6,7 +6,7 @@
 papers:
   -
     author: Don Norman
-    title: "The Design of Everyday Things. Chapter 1: The Psychology of Everyday Things (2013 version)"
+    title: "The Design of Everyday Things, Ch. 1: The Psychology of Everyday Things (2013 ed.)"
     link:
     class: 160
     year: 2013
@@ -186,32 +186,33 @@ papers:
     year: 1992
     title: Edit wear and read wear. Hill
     author: W. C. Hollan, J. D., Wroblewski, D., and McCandless, T.
-    publisher: In Proceedings of CHI 1992, pp. 3-9.
+    publisher: CHI
     class: 260
   -
     year: 2000
     title: Past, Present, and Future of User Interface Software Tools
     author: Brad Myers, Scott E. Hudson, Randy Pausch
-    publisher: ACM Transactions on Computer-Human Interaction, March 2000, pp. 3 - 28.
+    publisher: ACM Transactions on Computer-Human Interaction, March 2000
+    pages: 3-28
     class: 260
   -
     year: 2011
     title: The State of the Art in End-User Software Engineering
     author:  Andrew J. Ko
-    publisher: ACM Computing Surveys.
+    publisher: ACM Computing Surveys
     link: https://dl.acm.org/citation.cfm?id=1922658
     class: 260
   -
     year: 2010
     title: "Example-centric programming: integrating web search into the development environment."
     author: J. Brandt, Dontcheva, M., Weskamp, M., and Klemmer, S. R.
-    publisher: In Proceedings of CHI 2010,pp. 513-522.
+    publisher: CHI
     class: 260
   -
     year: 2010
     title: The Design of Search User Interfaces
     author: Marti Hearst
-    publisher: 2010. Chapter 1 from Search User Interfaces.
+    publisher: Chapter 1 from Search User Interfaces.
     class: 260
   -
     year: 2003
@@ -223,8 +224,8 @@ papers:
   -
     year: 2006
     title: Reflective Physical Prototyping through Integrated Design, Test and Analysis
-    author: Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, and Jennifer Gee.
-    publisher: In Proceedings of UIST 2006.
+    author: Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, et al.
+    publisher: UIST
     class: 260
   -
     year: 2007

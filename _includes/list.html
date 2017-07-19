@@ -1,0 +1,13 @@
+<ul>
+{% for paper in include.list %}
+    <li>
+    {% if paper.link %}<a href="{{paper.link}}" target="_blank">{% endif %}
+
+    <b>{{ paper.year }}</b>
+    - <i>{{ paper.author }}</i>
+    - {{ paper.title }}
+
+    {% if paper.link %}</a>{% endif %}
+    </li>
+{% endfor %}
+</ul>

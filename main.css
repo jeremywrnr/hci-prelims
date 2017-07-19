@@ -16,12 +16,12 @@ img {
 
 a, a:visited {
   text-decoration: none;
-  color: #2a7ae2;
+  color: #424242;
 }
 
-a:hover {
+a:hover, a:focus {
   text-decoration: underline;
-  color: #424242;
+  color: #2a7ae2;
 }
 
 .site-title, .site-title:visited {
@@ -32,4 +32,3 @@ a:hover {
 .post-title, .post-title:visited {
   font-size: 30px;
 }
-
