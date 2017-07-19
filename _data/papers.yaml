@@ -7,7 +7,7 @@ papers:
   -
     author: Don Norman
     title: "The Design of Everyday Things, Ch. 1: The Psychology of Everyday Things (2013 ed.)"
-    link:
+    link: https://drive.google.com/a/berkeley.edu/file/d/0B76vkOGLgqvjelRoQnNOemhIbFk/view?usp=sharing
     class: 160
     year: 2013
   -
@@ -20,249 +20,287 @@ papers:
     year: 2000
     author: Raskin
     title: "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention"
+    link: https://drive.google.com/a/berkeley.edu/file/d/0ByJckhRq0l3USUFYMjVhRFNieEU/view?usp=sharing
     class: 160
 
   -
     year: 2000
     author: Raskin
     title: "The Humane Interface, Chapter 3,4: Quantification"
+    link: https://drive.google.com/open?id=0ByJckhRq0l3USUVGZVhlSHZMaGs
     class: 160
   -
     year: 2012
     author: Ken Hinckley, Daniel Wigdor
     title: Input Technologies and Techniques
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjZUtBTzljOTd6NUE
     class: 160
   -
     year: 1983
     author: Stuart Card, Thomas Moran, Allen Newell
-    title: The Model Human Processor. Ch2 of The Psychology of Human-Computer Interaction.
+    title: The Model Human Processor. Ch2 of The Psychology of Human-Computer Interaction
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UUjNZYVF1d2hsUUE
     class: 160
   -
     year: 1999
     author: Stuart Card, Jock Mackinlay, Ben Schneiderman
-    title: Readings in Information Visualization. Chapter 1- Information Visualization.
+    title: Readings in Information Visualization. Chapter 1 - Information Visualization
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UcW1zVFNVYUhKTXc
     class: 160
   -
     year: 1977
     author: David Martin
-    title: "Doing Psychology Experiments. (Ch. 2 and 12)"
-    note: 2 and 12 are especially relevant, but the whole book is worthwhile. Alternatively, other readings on the scientific method and inferential statistics.
+    title: "Doing Psychology Experiments. (Ch. 2, 7, 12)"
+    note: 2 and 12 are especially relevant, but the whole book is worthwhile. Alternatively, other readings on the scientific method and inferential statistics
+    link: https://drive.google.com/file/d/0B3rmOUWm5OBlZUtPd2dhbmpkUHM/view?usp=sharing
     class: 160
   -
     year: 1998
     author: Hugh Beyer, Karen Holtzblatt
-    title: "Contextual Design, Ch. 3: Principles of Contextual Inquiry."
+    title: "Contextual Design, Ch. 3: Principles of Contextual Inquiry"
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UbXJPb1hnWGJ0Tjg
     class: 160
   -
-    year: 1994
+    year: 1995
     author: Nielsen
     title: How to Conduct a Heuristic Evaluation
+    link: https://drive.google.com/a/berkeley.edu/file/d/0B76vkOGLgqvjZ2hUaHFOSmFHc1U/view?usp=sharing
     class: 160
   -
     year: 1994
     author: Nielsen
-    title: 10 Usability Heuristics.
+    title: 10 Usability Heuristics
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjS1RsLUVMZkM5MUk
     class: 160
   -
     year: 2009
     author: Olsen
     title: Building Interactive Systems, Ch 1 + 3:Architectures of Interactive Systems + Event Handling
-    link: https://dl.acm.org/citation.cfm?id=1538698
+    link: https://drive.google.com/open?id=0ByJckhRq0l3USnNQNGJ1dEY2WUk
     class: 160
   -
     year: 2010
     author: Ben Shneiderman, Plaisant, Coen, Jacobs
-    title: Designing the User Interface. Chapter 9, Collaboration and Social Media Participation.
+    title: Designing the User Interface. Chapter 9, Collaboration and Social Media Participation
+    link: https://drive.google.com/open?id=0ByJckhRq0l3USG1xaU9VVkQ4Rmc
     class: 160
   -
     year: 1945
     title: As We May Think
     author: Vannevar Bush
-    publisher: The Atlantic Monthly, July 1945.
+    publisher: The Atlantic
     link: https://drive.google.com/file/d/0B76vkOGLgqvjRDJsMTR3S2M3LXM/view
     class: 260
   -
     year: 1985
     title: Direct Manipulation Interfaces
-    author: Edwin L. Hutchins
-    publisher: James D. Hollan, and Donald A. Norman, Human-Computer Interaction, 1(4), 1985, pp. 311-338.
+    author: Edwin L. Hutchins, James D. Hollan, and Donald A. Norman
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjOWtTaVNoOG9aaE0
+    publisher: CHI
+    pages: 311-338
     class: 260
   -
     year: 1986
     title: "User Technology: From Pointing to Pondering"
     author: Stuart K. Card and Thomas P. Moran
-    publisher: ACM Conference on the history of personal workstations, 1986, pp. 183 - 98.
+    publisher: ACM Conference on the history of personal workstations
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjOWtTaVNoOG9aaE0
+    pages: 183-98
     class: 260
   -
     year: 1991
     title: The Computer for the 21st Century
     author: Mark Weiser
-    publisher: Scientific American, September 1991, pp. 94 - 104.
+    publisher: Scientific American
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjMjFpSVF4MTl0cUk
     class: 260
   -
     year: 2001
     title: "At Home with Ubiquitous Computing: Seven Challenges"
-    author: Edwards
-    publisher: W. K. and Grinter, R. E. In Proceeding of Ubicomp 2001, p. 256-272.
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjSW9TY0gxaTJ4VWs
+    author: Edwards W. K. and Grinter, R. E
+    publisher: Ubicomp
+    pages: 256-272
     class: 260
   -
     year: 1992
     title: A Morphological analysis of the design space of input devices
-    author: Stuart K. Card
-    publisher: Jock D. Mackinlay, and George G. Robertson, ACM Transactions on Information Systems, Volume 9, Issue 2, 1992, pp. 99-122.
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjY2dnNlFzZzNNSWc
+    author: Stuart K. Card, Jock D. Mackinlay, and George G. Robertson
+    publisher: TOIS
+    pages: 99-122
     class: 260
   -
     year: 1993
     title: Interacting with paper on the DigitalDesk
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjYWJCM1dReVNSVHc
     author: Pierre Wellner
-    publisher: Communications of the ACM 36, Issue 7 (Jul. 1993), pp.87-96.
-    link: https://dl.acm.org/citation.cfm?id=159630
+    publisher: CACM
+    pages: 87-96
     class: 260
   -
     year: 2005
     author: Jefferson Han
-    title: Low-cost multi-touch sensing through frustrated total internal reflection.
-    publisher: In Proceedings of UIST 2005.
+    title: Low-cost multi-touch sensing through frustrated total internal reflection
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UekEtVk1IZGNlSjQ
+    publisher: UIST
     pages: 115-118
     class: 260
   -
     year: 1992
     title: Beyond being there
-    author: Hollan
-    publisher: J. and Stornetta, S, Proceedings of CHI 1992, pp. 119-125.
+    author: Hollan J. and Stornetta, S
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjT1JaSWYxNFBnd2s
+    publisher: CHI
     class: 260
   -
     year: 1994
     title: "Groupware and Social Dynamics: Eight Challenges for Developers"
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjVXRvQTdnbmg5ZGc
     author: Jonathan Grudin
-    publisher: Communications of the ACM (CACM), 37(1), 1994, pp. 92-105.
+    publisher: CACM
     class: 260
   -
     year: 2008
-    title: Designing games with a purpose. von Ahn
-    author: L. and Dabbish
-    publisher: L. Communications of the ACM 51, 8 (Aug. 2008), p. 58-67.
+    title: Designing games with a purpose
+    link: https://cacm.acm.org/magazines/2008/8/5341-designing-games-with-a-purpose/fulltext
+    author: Lius von Ahn and Dabbish
+    publisher: CACM
     class: 260
   -
     year: 2007
     title: Practical Guide to Controlled Experiments on the Web
-    author: Ron Kohavi
-    publisher: Randal M. Henne, Dan Sommerfield, in Proceedings of KDD07, 2007.
-    class: 260
+    link: https://drive.google.com/a/berkeley.edu/file/d/0ByJckhRq0l3UYjNRUEVZdFE3ZFU/view?usp=sharing
+    author: Ron Kohavi, Randal M. Henne, Dan Sommerfield
+    publisher: KDD
+    class: 260jjjj
   -
     year: 2007
-    title: Evaluating User Interface Systems Research. D. R. Olsen
-    author: Proceedings of UIST 2007
-    publisher: 2007, pp. 251-258.
+    title: Evaluating User Interface Systems Research
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjQjNBYnVHWTNLSmc
+    author: D. R. Olsen
+    publisher: UIST
     class: 260
   -
     year: 2006
     title: How Bodies Matter
-    author: S.R. Klemmer
-    publisher: B. Hartmann, L. Takayama, In Proceedings of DIS 2006.
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjTHJzRF9NNklhNE0
+    author: S.R. Klemmer, B. Hartmann, L. Takayama
+    publisher: DIS
     class: 260
   -
     title: Getting the Right Design and the Design Right- Testing Many Is Better Than One
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjTHJzRF9NNklhNE0
     author: Maryam Tohidi, William Buxton, Ronald Baecker, Abigail Sellen
     publisher: CHI
-    year: 2006
     pages: 1243-1252
+    year: 2006
     class: 260
   -
     year: 2002
     title: Creativity support tools
+    link: https://cacm.acm.org/magazines/2002/10/20761-creativity-support-tools/fulltext
     author: Ben Shneiderman
-    publisher: Communications of the ACM 45 10 (Oct. 2002)
+    publisher: CACM
     pages: 116-120
     class: 260
   -
     year: 1999
     title: Principles of Mixed-Initiative User Interfaces
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjVG9fMGtQeFNQem8
     author: Eric Horvitz
     publisher: CHI
     pages: 159-166
     class: 260
   -
     year: 1992
-    title: Edit wear and read wear. Hill
-    author: W. C. Hollan, J. D., Wroblewski, D., and McCandless, T.
+    title: Edit wear and read wear
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjdGYzc0dsRU9vaFE
+    author: W. C. Hollan, J. D., Wroblewski, D., and McCandless, T. Hill
     publisher: CHI
     class: 260
   -
     year: 2000
     title: Past, Present, and Future of User Interface Software Tools
     author: Brad Myers, Scott E. Hudson, Randy Pausch
-    publisher: ACM Transactions on Computer-Human Interaction, March 2000
+    link: https://drive.google.com/open?id=0B76vkOGLgqvjQ1lTUC1LcC15V3M
+    publisher: TOCHI
     pages: 3-28
     class: 260
   -
     year: 2011
     title: The State of the Art in End-User Software Engineering
-    author:  Andrew J. Ko
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UUkNZYzMyc1dnTk0
     publisher: ACM Computing Surveys
-    link: https://dl.acm.org/citation.cfm?id=1922658
+    author:  Andrew J. Ko
     class: 260
   -
     year: 2010
-    title: "Example-centric programming: integrating web search into the development environment."
-    author: J. Brandt, Dontcheva, M., Weskamp, M., and Klemmer, S. R.
+    title: "Example-centric programming: integrating web search into the development environment"
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UN2JTRldSOWlOU1k
+    author: J. Brandt et al
     publisher: CHI
     class: 260
   -
     year: 2010
     title: The Design of Search User Interfaces
+    link: http://searchuserinterfaces.com/book/sui_ch1_design.html
     author: Marti Hearst
-    publisher: Chapter 1 from Search User Interfaces.
     class: 260
   -
     year: 2003
     title: Exploring and Finding Information
     author: Pirolli
-    publisher: Chapter 7 in HCI Models, Theories, and Frameworks
-    link: http://hcicourses.stanford.edu/cs376/2014/readings/Exploring_and_Finding_Information.pdf
+    link: https://drive.google.com/a/berkeley.edu/file/d/0ByJckhRq0l3UdTVPOFRORHVCR3c/view?usp=sharing
     class: 260
   -
     year: 2006
     title: Reflective Physical Prototyping through Integrated Design, Test and Analysis
-    author: Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, et al.
+    link: https://drive.google.com/open?id=0ByJckhRq0l3URDJqbTFQa0lGVzA
+    author: Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, et al
     publisher: UIST
     class: 260
   -
     year: 2007
     author: J Zimmerman, J. Forlizzi, and S. Evenson,
     title: 'Research through design as a method for interaction design research in HCI'
-    link: https://dl.acm.org/citation.cfm?id=1240704
-    publisher: CHI 2007
+    link: https://drive.google.com/open?id=0ByJckhRq0l3URDJqbTFQa0lGVzA
+    publisher: CHI
     pages: 493–502
     class: bonus
   -
     year: 2011
     author: Agrawala, Li, Berthouzoz
+    link: http://cacm.acm.org/magazines/2011/4/106586/fulltext
     title: Design Principles for Visual Communication
-    publisher: CACM 2011
+    publisher: CACM
     class: bonus
   -
     year: 2010
     author: Bernstein et al
+    link: https://drive.google.com/open?id=0ByJckhRq0l3Ub2FuQk1laExVdTA
     title: Soylent a word processor with a crowd inside
-    publisher: UIST 2010
+    publisher: UIST
     class: bonus
   -
     year: 2010
     author: Dow et al
-    title: Parallel prototyping leads to better design results more divergence, and increased self-efficacy ,
-    publisher: TOCHI 2010
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UdW94ZzFpT2lYbU0
+    title: Parallel prototyping leads to better design results more divergence, and increased self-efficacy
+    publisher: TOCHI
     class: bonus
   -
     year: 2009
     author: Gilbert and Karahalios
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UdW94ZzFpT2lYbU0
     title: Predicting Tie Strength with Social Media
-    publisher: CHI 2009
+    publisher: CHI
     class: bonus
   -
     year: 1997
     author: Ishii H., and Ullmer, B.
+    link: https://drive.google.com/a/berkeley.edu/file/d/0ByJckhRq0l3UQ1o4c2NSV1hzQTQ/view?usp=sharing
     title: 'Tangible Bits: Toward Seamless Interfaces between People, Bits and Atoms'
-    publisher: CHI 1997
+    publisher: CHI
     class: bonus
 

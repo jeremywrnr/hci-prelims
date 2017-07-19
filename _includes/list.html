@@ -5,7 +5,7 @@
 
     <b>{{ paper.year }}</b>
     - <i>{{ paper.author }}</i>
-    - {{ paper.title }}
+    - {{ paper.title }}{% if paper.publisher %}, {{ paper.publisher }}{% endif %}
 
     {% if paper.link %}</a>{% endif %}
     </li>
