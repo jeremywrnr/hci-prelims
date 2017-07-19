@@ -19,4 +19,3 @@ extra
 <!--- [by topic]({{ site.baseurl }}/topics)-->
 <!--- [by publisher]({{ site.baseurl }}/publishers)-->
 <!--other more interesting groupings-->
-
