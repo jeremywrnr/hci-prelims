@@ -19,13 +19,13 @@ papers:
   -
     year: 2000
     author: Raskin
-    title: "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention, 3,4 - Quantification."
+    title: "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention"
     class: 160
 
   -
     year: 2000
     author: Raskin
-    title: "The Humane Interface, Chapter 3,4: - Quantification."
+    title: "The Humane Interface, Chapter 3,4: Quantification"
     class: 160
   -
     year: 2012
@@ -45,13 +45,13 @@ papers:
   -
     year: 1977
     author: David Martin
-    title: "Doing Psychology Experiments. (Chapter 2 and Chapter 12)"
+    title: "Doing Psychology Experiments. (Ch. 2 and 12)"
     note: 2 and 12 are especially relevant, but the whole book is worthwhile. Alternatively, other readings on the scientific method and inferential statistics.
     class: 160
   -
     year: 1998
     author: Hugh Beyer, Karen Holtzblatt
-    title: "Contextual Design, Ch 3: Principles of Contextual Inquiry."
+    title: "Contextual Design, Ch. 3: Principles of Contextual Inquiry."
     class: 160
   -
     year: 1994
@@ -180,7 +180,6 @@ papers:
     title: Principles of Mixed-Initiative User Interfaces
     author: Eric Horvitz
     publisher: CHI
-    year: 1999
     pages: 159-166
     class: 260
   -
@@ -199,7 +198,7 @@ papers:
     year: 2011
     title: The State of the Art in End-User Software Engineering
     author:  Andrew J. Ko
-    publisher: ACM Computing Surveys. Accepted for publication.
+    publisher: ACM Computing Surveys.
     link: https://dl.acm.org/citation.cfm?id=1922658
     class: 260
   -
@@ -223,9 +222,9 @@ papers:
     class: 260
   -
     year: 2006
-    title: Reflective Physical Prototyping through Integrated Design
-    author: Test
-    publisher: and Analysis, Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, and Jennifer Gee. In Proceedings of UIST 2006.
+    title: Reflective Physical Prototyping through Integrated Design, Test and Analysis
+    author: Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, and Jennifer Gee.
+    publisher: In Proceedings of UIST 2006.
     class: 260
   -
     year: 2007

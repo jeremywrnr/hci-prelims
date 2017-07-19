@@ -66,11 +66,37 @@ be followed during these inquiries, namely a conventional interview to get
 things started, than an explicit stating of expectations during the work
 session, the actual observations during work execution, and then a followup
 interview where presentations of the what was gleaned from the inquiry and
-passed back through the customer for a final stage of vetting. 
+passed back through the customer for a final stage of vetting.
 
 # direct manipulation interfaces
 
-TODO
+- distance
+    - directness
+    - direct engagement
+- forms
+    - semantic (goals - expr meaning)
+    - articulatory (expr form - meaning)
+
+jim hollan and don norman collab on one of the first (?) CHI conference papers,
+in '85. describes direct manipulation, and tries to provide tools for measuring
+directness and distance in interfaces, and is ripe with suggestions for
+developers to consider when building interfaces for users. what you see is what
+you get. it highlights that people must adjust to systems, and that short-term
+usabilities studies should not be the sole predictor of a UI's success, since
+it could be better but less familiar if it is a new idea, similar to the first
+testers of GUIs who had only been experienced with text based interfaces.
+direct manipulation coined by schniederman in 74, refers to systems that have
+continuous data representation, physical action metaphors (no DSL), rapid
+incremental reversible actions, which links back to the state representation.
+this helps users: learnable, flexible (accessors), clear operations, lack of a
+need for error messages, and more. directness is always relative. directness:
+feeling that results from using an interface. distance: factors which underlie
+a feeling of directness. distance causes directness. system metaphors:
+conversation (talking about the world, e.g. comp program), model-world (model
+the world and directly manipulate it). how close the model is to the world is a
+measure of direct engagement. gulf of execution: how far are the users goals
+from the mechanisms the system affordances? gulf of evaluation: how good the
+system is able to convey data about its state back to the user?
 
 # nielsen's 10 characteristics
 
