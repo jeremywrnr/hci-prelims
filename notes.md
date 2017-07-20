@@ -1,6 +1,18 @@
 ---
 ---
 
+# tangible bits
+
+h. ishii vision for what interacting with computing could be like.
+complementary to mark weiser's ubiquotious computing (making the technology
+invisible), he puts forward a new idea (couple bits and atoms) and three
+supporting research prototypes which express this coupling (ambientROOM,
+transBOARD, and metaDESK). he introduces the TUI (tangible user interface), and
+draws analogies between GUI and TUI elements, like phicons (physical icons).
+the concept of optical metaphors is brought up: digital light and shadows,
+integrating how light and shadow play to illuminate our physical world into the
+digital realm.
+
 # how bodies matter
 
 bjoern, srk. The human body has skill and dexterity which digital interaction
@@ -70,12 +82,9 @@ passed back through the customer for a final stage of vetting.
 
 # direct manipulation interfaces
 
-- distance
-    - directness
-    - direct engagement
-- forms
-    - semantic (goals - expr meaning)
-    - articulatory (expr form - meaning)
+- distance: directness, direct engagement
+- forms: semantic (goals - expr meaning),
+     articulatory (expr form - meaning)
 
 jim hollan and don norman collab on one of the first (?) CHI conference papers,
 in '85. describes direct manipulation, and tries to provide tools for measuring
