@@ -1,10 +1,21 @@
 ---
 ---
 
+# as we may think
+
+vannevar bush, immediately after the end of WW II, addresses fellow scientists
+who previously were devoted to the war effort. he envisions a world where we
+weave and record trails of knowledge through information, both so that we can
+access them over time, share the, , and view trails that others have blazed.
+people in science are doing so much specialized work it is hard to keep up - in
+comes the memex, which lets users do this trailblazing along with methods for
+indexing and searching by association, which servers as a more natural way for
+humans to thing about their work (and consequently, the work of others).
+
 # tangible bits
 
 h. ishii vision for what interacting with computing could be like.
-complementary to mark weiser's ubiquotious computing (making the technology
+complementary to mark weiser's ubiquitous computing (making the technology
 invisible), he puts forward a new idea (couple bits and atoms) and three
 supporting research prototypes which express this coupling (ambientROOM,
 transBOARD, and metaDESK). he introduces the TUI (tangible user interface), and
@@ -109,7 +120,7 @@ system is able to convey data about its state back to the user?
 
 # nielsen's 10 characteristics
 
-source: https://www.nngroup.com/articles/ten-usability-heuristics/
+[online source](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 - Visibility of system status
 - Match between system and the real world
