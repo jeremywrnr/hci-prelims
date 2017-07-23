@@ -12,6 +12,19 @@ comes the memex, which lets users do this trailblazing along with methods for
 indexing and searching by association, which servers as a more natural way for
 humans to thing about their work (and consequently, the work of others).
 
+# mixed initiative user interfaces
+
+eric horvitz (chi 99) makes the case for mixed-initiative interfaces in
+response to the debate between the fervent camps of  direction manipulation and
+automatic intelligent agents, instead highlighting that is best when they work
+together, complementing each other at what they are best at: direct
+manipulation for providing the user with a close metaphor for the object the
+user is working with, and automated tasks for routine or mechanical jobs. his
+listed design considerations are: add value w/ automation, consider goal
+uncertainty, consider timing (for attention), act optimally (utility), use
+dialog to confirm (if needed), minimizing error cost, provide refinement
+mechanisms, keep history of past actions, and learn from them.
+
 # tangible bits
 
 h. ishii vision for what interacting with computing could be like.
