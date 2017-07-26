@@ -1,0 +1,361 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "author": "Don Norman",
+      "title": "The Design of Everyday Things. Chapter 1: The Psychology of Everyday Things (2013 version)",
+      "class": "160",
+      "year": "2013"
+    },
+    {
+      "year": "1985",
+      "id": "2",
+      "author": "Edwin Hutchins, James Hollan, Don Norman",
+      "title": "Direct Manipulation Interfaces",
+      "link": "https://drive.google.com/a/berkeley.edu/file/d/0B76vkOGLgqvjOWtTaVNoOG9aaE0/view?usp=sharing",
+      "class": "160"
+    },
+    {
+      "year": "2000",
+      "id": "3",
+      "author": "Raskin",
+      "title": "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention, 3,4 - Quantification.",
+      "class": "160"
+    },
+    {
+      "year": "2000",
+      "id": "4",
+      "author": "Raskin",
+      "title": "The Humane Interface, Chapter 3,4: - Quantification.",
+      "class": "160"
+    },
+    {
+      "year": "2012",
+      "id": "5",
+      "author": "Ken Hinckley, Daniel Wigdor",
+      "title": "Input Technologies and Techniques",
+      "class": "160"
+    },
+    {
+      "year": "1983",
+      "id": "6",
+      "author": "Stuart Card, Thomas Moran, Allen Newell",
+      "title": "The Model Human Processor. Ch2 of The Psychology of Human-Computer Interaction.",
+      "class": "160"
+    },
+    {
+      "year": "1999",
+      "id": "7",
+      "author": "Stuart Card, Jock Mackinlay, Ben Schneiderman",
+      "title": "Readings in Information Visualization. Chapter 1- Information Visualization.",
+      "class": "160"
+    },
+    {
+      "year": "1977",
+      "id": "8",
+      "author": "David Martin",
+      "title": "Doing Psychology Experiments. (Chapter 2 and Chapter 12 are especially relevant, but the whole book is worthwhile. Alternatively: other readings on the scientific method and inferential statistics.)",
+      "class": "160"
+    },
+    {
+      "year": "1998",
+      "id": "9",
+      "author": "Hugh Beyer, Karen Holtzblatt",
+      "title": "Contextual Design, Ch 3: Principles of Contextual Inquiry.",
+      "class": "160"
+    },
+    {
+      "year": "1994",
+      "id": "10",
+      "author": "Nielsen",
+      "title": "How to Conduct a Heuristic Evaluation",
+      "class": "160"
+    },
+    {
+      "year": "1994",
+      "id": "11",
+      "author": "Nielsen",
+      "title": "10 Usability Heuristics.",
+      "class": "160"
+    },
+    {
+      "year": "2009",
+      "id": "12",
+      "author": "Olsen",
+      "title": "Building Interactive Systems, Ch 1 + 3:Architectures of Interactive Systems + Event Handling",
+      "link": "https://dl.acm.org/citation.cfm?id=1538698",
+      "class": "160"
+    },
+    {
+      "year": "2010",
+      "id": "13",
+      "author": "Ben Shneiderman, Plaisant, Coen, Jacobs",
+      "title": "Designing the User Interface. Chapter 9, Collaboration and Social Media Participation.",
+      "class": "160"
+    },
+    {
+      "year": "1945",
+      "title": "As We May Think",
+      "id": "14",
+      "author": "Vannevar Bush",
+      "publisher": "The Atlantic Monthly, July 1945.",
+      "class": "260"
+    },
+    {
+      "year": "1985",
+      "title": "Direct Manipulation Interfaces",
+      "id": "15",
+      "author": "Edwin L. Hutchins",
+      "publisher": "James D. Hollan, and Donald A. Norman, Human-Computer Interaction, 1(4), 1985, pp. 311-338.",
+      "class": "260"
+    },
+    {
+      "year": "1986",
+      "title": "User Technology: From Pointing to Pondering",
+      "id": "16",
+      "author": "Stuart K. Card and Thomas P. Moran",
+      "publisher": "ACM Conference on the history of personal workstations, 1986, pp. 183 - 98.",
+      "class": "260"
+    },
+    {
+      "year": "1991",
+      "title": "The Computer for the 21st Century",
+      "id": "17",
+      "author": "Mark Weiser",
+      "publisher": "Scientific American, September 1991, pp. 94 - 104.",
+      "class": "260"
+    },
+    {
+      "year": "2001",
+      "title": "At Home with Ubiquitous Computing: Seven Challenges",
+      "id": "18",
+      "author": "Edwards",
+      "publisher": "W. K. and Grinter, R. E. In Proceeding of Ubicomp 2001, p. 256-272.",
+      "class": "260"
+    },
+    {
+      "year": "1992",
+      "title": "A Morphological analysis of the design space of input devices",
+      "id": "19",
+      "author": "Stuart K. Card",
+      "publisher": "Jock D. Mackinlay, and George G. Robertson, ACM Transactions on Information Systems, Volume 9, Issue 2, 1992, pp. 99-122.",
+      "class": "260"
+    },
+    {
+      "year": "1993",
+      "title": "Interacting with paper on the DigitalDesk",
+      "id": "20",
+      "author": "Pierre Wellner",
+      "publisher": "Communications of the ACM 36, Issue 7 (Jul. 1993), pp.87-96.",
+      "link": "https://dl.acm.org/citation.cfm?id=159630",
+      "class": "260"
+    },
+    {
+      "year": "2005",
+      "id": "21",
+      "author": "Jefferson Han",
+      "title": "Low-cost multi-touch sensing through frustrated total internal reflection.",
+      "publisher": "In Proceedings of UIST 2005.",
+      "pages": "115-118",
+      "class": "260"
+    },
+    {
+      "year": "1992",
+      "title": "Beyond being there",
+      "id": "22",
+      "author": "Hollan",
+      "publisher": "J. and Stornetta, S, Proceedings of CHI 1992, pp. 119-125.",
+      "class": "260"
+    },
+    {
+      "year": "1994",
+      "title": "Groupware and Social Dynamics: Eight Challenges for Developers",
+      "id": "23",
+      "author": "Jonathan Grudin",
+      "publisher": "Communications of the ACM (CACM), 37(1), 1994, pp. 92-105.",
+      "class": "260"
+    },
+    {
+      "year": "2008",
+      "title": "Designing games with a purpose. von Ahn",
+      "id": "24",
+      "author": "L. and Dabbish",
+      "publisher": "L. Communications of the ACM 51, 8 (Aug. 2008), p. 58-67.",
+      "class": "260"
+    },
+    {
+      "year": "2007",
+      "title": "Practical Guide to Controlled Experiments on the Web",
+      "id": "25",
+      "author": "Ron Kohavi",
+      "publisher": "Randal M. Henne, Dan Sommerfield, in Proceedings of KDD07, 2007.",
+      "class": "260"
+    },
+    {
+      "year": "2007",
+      "title": "Evaluating User Interface Systems Research. D. R. Olsen",
+      "id": "26",
+      "author": "Proceedings of UIST 2007",
+      "publisher": "2007, pp. 251-258.",
+      "class": "260"
+    },
+    {
+      "year": "2006",
+      "title": "How Bodies Matter",
+      "id": "27",
+      "author": "S.R. Klemmer",
+      "publisher": "B. Hartmann, L. Takayama, In Proceedings of DIS 2006.",
+      "class": "260"
+    },
+    {
+      "title": "Getting the Right Design and the Design Right- Testing Many Is Better Than One",
+      "id": "28",
+      "author": "Maryam Tohidi, William Buxton, Ronald Baecker, Abigail Sellen",
+      "publisher": "CHI",
+      "year": "2006",
+      "pages": "1243-1252",
+      "class": "260"
+    },
+    {
+      "year": "2002",
+      "title": "Creativity support tools",
+      "id": "29",
+      "author": "Ben Shneiderman",
+      "publisher": "Communications of the ACM 45 10 (Oct. 2002)",
+      "pages": "116-120",
+      "class": "260"
+    },
+    {
+      "year": "1999",
+      "title": "Principles of Mixed-Initiative User Interfaces",
+      "id": "30",
+      "author": "Eric Horvitz",
+      "publisher": "CHI",
+      "pages": "159-166",
+      "class": "260"
+    },
+    {
+      "year": "1992",
+      "title": "Edit wear and read wear. Hill",
+      "id": "31",
+      "author": "W. C. Hollan, J. D., Wroblewski, D., and McCandless, T.",
+      "publisher": "In Proceedings of CHI 1992, pp. 3-9.",
+      "class": "260"
+    },
+    {
+      "year": "2000",
+      "title": "Past, Present, and Future of User Interface Software Tools",
+      "id": "32",
+      "author": "Brad Myers, Scott E. Hudson, Randy Pausch",
+      "publisher": "ACM Transactions on Computer-Human Interaction, March 2000, pp. 3 - 28.",
+      "class": "260"
+    },
+    {
+      "year": "2011",
+      "title": "The State of the Art in End-User Software Engineering",
+      "id": "33",
+      "author": "Andrew J. Ko",
+      "publisher": "ACM Computing Surveys. Accepted for publication.",
+      "link": "https://dl.acm.org/citation.cfm?id=1922658",
+      "class": "260"
+    },
+    {
+      "year": "2010",
+      "title": "Example-centric programming: integrating web search into the development environment.",
+      "id": "34",
+      "author": "J. Brandt, Dontcheva, M., Weskamp, M., and Klemmer, S. R.",
+      "publisher": "In Proceedings of CHI 2010,pp. 513-522.",
+      "class": "260"
+    },
+    {
+      "year": "2010",
+      "title": "The Design of Search User Interfaces",
+      "id": "35",
+      "author": "Marti Hearst",
+      "publisher": "2010. Chapter 1 from Search User Interfaces.",
+      "class": "260"
+    },
+    {
+      "year": "2003",
+      "title": "Exploring and Finding Information",
+      "id": "36",
+      "author": "Pirolli",
+      "publisher": "Chapter 7 in HCI Models, Theories, and Frameworks",
+      "link": "http://hcicourses.stanford.edu/cs376/2014/readings/Exploring_and_Finding_Information.pdf",
+      "class": "260"
+    },
+    {
+      "year": "2006",
+      "title": "Reflective Physical Prototyping through Integrated Design",
+      "id": "37",
+      "author": "Test",
+      "publisher": "and Analysis, Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, and Jennifer Gee. In Proceedings of UIST 2006.",
+      "class": "260"
+    },
+    {
+      "year": "2007",
+      "id": "38",
+      "author": "J Zimmerman, J. Forlizzi, and S. Evenson,",
+      "title": "Research through design as a method for interaction design research in HCI",
+      "link": "https://dl.acm.org/citation.cfm?id=1240704",
+      "publisher": "CHI 2007",
+      "pages": "493–502",
+      "class": "bonus"
+    },
+    {
+      "year": "2011",
+      "id": "39",
+      "author": "Agrawala, Li, Berthouzoz",
+      "title": "Design Principles for Visual Communication",
+      "publisher": "CACM 2011",
+      "class": "bonus"
+    },
+    {
+      "year": "2010",
+      "id": "40",
+      "author": "Bernstein et al",
+      "title": "Soylent a word processor with a crowd inside",
+      "publisher": "UIST 2010",
+      "class": "bonus"
+    },
+    {
+      "year": "2010",
+      "id": "41",
+      "author": "Dow et al",
+      "title": "Parallel prototyping leads to better design results more divergence, and increased self-efficacy ,",
+      "publisher": "TOCHI 2010",
+      "class": "bonus"
+    },
+    {
+      "year": "2009",
+      "id": "42",
+      "author": "Gilbert and Karahalios",
+      "title": "Predicting Tie Strength with Social Media",
+      "publisher": "CHI 2009",
+      "class": "bonus"
+    },
+    {
+      "year": "1997",
+      "id": "43",
+      "author": "Ishii H., and Ullmer, B.",
+      "title": "Tangible Bits: Toward Seamless Interfaces between People, Bits and Atoms",
+      "publisher": "CHI 1997",
+      "class": "bonus"
+    } 
+  ],
+  "links": [
+    {"source": "43", "target": "2", "idea": "extending direct manipulation from ideas to physical reality, e.g optics metaphor"},
+    {"source": "43", "target": "27", "idea": "we know more than we know; muscle memory"},
+    {"source": "43", "target": "17", "idea": "different visions of invisible tech; ubicomp"},
+    {"source": "43", "target": "30", "idea": "when does something get foregrounded; who decides"}, 
+    {"source": "30", "target": "2", "idea": "combining direct manipulation with automated behaviors"},
+    {"source": "30", "target": "3", "idea": "locus of attention in action"}, 
+    {"source": "43", "target": "3", "idea": "locus of attention in action"}, 
+    {"source": "23", "target": "17", "idea": "a physical manifestation of groupware; colocated collaboration w/ multiple people"},
+    {"source": "23", "target": "22", "idea": "we <3 email"},
+    {"source": "11", "target": "23", "idea": "interfaces are hard; here's how to think about them"},
+    {"source": "11", "target": "30", "idea": "exiting gracefully"},
+    {"source": "2", "target": "22", "idea": "exploring inherent limitations of replicating real world/ existing mechanisms of thought"},
+    {"source": "30", "target": "22", "idea": "benefits of automation/tech over the manual/unaided; e.g. google hangouts autofocus"}
+  ]
+}

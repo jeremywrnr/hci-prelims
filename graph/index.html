@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.nodes text {
+  color: black;
+  font: 10px sans-serif;
+}
+
+#info_pane {
+    height: 200px;
+    border: 1px solid blue;
+}
+
+#graph {
+    border: 1px solid blue;
+}
+
+</style>
+<!-- <svg id="graph"></svg> -->
+<svg width="960" height="500" id="graph"></svg>
+<div id="info_pane">
+    <b> Paper: </b> <span id="paper_title_a"></span>
+    <br/>
+    <b> Paper: </b><span id="paper_title_b"></span>
+
+    <div id="ideas_list"></div>
+</div>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var svg = d3.select("svg"),
+    width = +svg.attr("width"),
+    height = +svg.attr("height");
+
+var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody())
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+var selected = [null, null];
+
+d3.json("./data.json", function(error, graph) {
+  if (error) throw error;
+
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      .attr("r", 10)
+      .attr("fill", function(d) { return color(d.group); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+
+    node.enter().append("text")
+      .attr("dx", 12)
+      .attr("dy", ".35em")
+      .text(function(d) { return d.title; });
+
+  function mouseClick(node) {
+
+    selected[1] = selected[0];
+    selected[0] = node; 
+
+    d3.selectAll("circle").style("fill", function(d) {
+      var s1 = null;
+      var s0 = selected[0].id;
+      if (selected[1]) {
+        s1 = selected[1].id;
+      }
+      if (d.id == s0 || d.id == s1) {
+        return "red";
+      }
+      return color(d.group);
+    }); 
+
+    if (selected[0]) {
+      document.getElementById("paper_title_a").innerHTML = selected[0].title;
+    }
+    if (selected[1]) {
+      document.getElementById("paper_title_b").innerHTML = selected[1].title;
+    }
+
+    // update the ideas list
+    var ideasstring = "<ul>";
+    for (var i=0; i < graph.links.length; i++) {
+        var l = graph.links[i];
+
+        if (selected[0] == selected[1]) {
+          if (l.source === selected[0] || l.target === selected[0]) {
+            ideasstring += "<li>" + l.idea + "</li>"
+          }
+        } else {
+          if (l.source === selected[0] && l.target === selected[1] ||
+              l.source === selected[1] && l.target === selected[0]) {
+              ideasstring += "<li>" + l.idea + "</li>"
+          }
+        }
+    }
+    ideasstring += "</ul>"
+    document.getElementById("ideas_list").innerHTML = ideasstring;
+
+  }
+
+  // color node on hover
+  function mouseOver(node) {
+    d3.select(this).style("fill", "red");
+  }
+
+  // uncolor node unless it has been selected
+  function mouseOut(node) {
+    if (node != selected[0] && node != selected[1]) {
+      d3.select(this).style("fill", function(d) {
+        return color(d.group);
+      }); 
+    }
+  }
+
+  node.on("click", mouseClick)
+      .on("mouseover", mouseOver)
+      .on("mouseout", mouseOut);
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("cx", function(d) { return Math.max(0, Math.min(width, d.x)); })
+        .attr("cy", function(d) { return Math.max(0, Math.min(height, d.y)); });
+  }
+});
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+</script>
