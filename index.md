@@ -6,8 +6,8 @@ layout: default
 - [by year]({{ site.baseurl }}/time)
 
 ### new!
-- [paper graph]({{ site.baseurl }}/graph)
-- [source repo](https://github.com/ssterman/prelim_viz)
+- [paper graph]({{ site.baseurl }}/graph), [source](https://github.com/ssterman/prelim_viz)
+- [task analysis](https://drive.google.com/file/d/0B3rmOUWm5OBldFlKWXp6N2FBOHM/view?usp=sharing)
 
 ### extra
 - [past 160 exams](https://drive.google.com/drive/u/0/folders/0B62uerceUVsuczdhQXpMMDloVUE)
