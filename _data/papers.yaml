@@ -1,7 +1,8 @@
 # papers for berkeleys hci prelim
 # from: http://people.eecs.berkeley.edu/~bjoern/prelims
-## In addition to these readings, you will probably find slides from the class helpful.
-#Look at the Spring 2014 offering of CS160: http://inst.eecs.berkeley.edu/~cs160/sp14/
+
+# In addition to these readings, you will probably find slides from the class helpful.
+# Look at the Spring 2014 offering of CS160: http://inst.eecs.berkeley.edu/~cs160/sp14/
 
 papers:
   -
@@ -264,7 +265,7 @@ papers:
     year: 2007
     author: J Zimmerman, J. Forlizzi, and S. Evenson,
     title: 'Research through design as a method for interaction design research in HCI'
-    link: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1041&context=hcii
+    link: https://drive.google.com/open?id=0ByJckhRq0l3UOC1Jb3BkWDl2T0E
     publisher: CHI
     pages: 493–502
     class: bonus
