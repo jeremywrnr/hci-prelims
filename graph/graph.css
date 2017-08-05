@@ -1,0 +1,33 @@
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.axis line {
+  fill: none;
+  stroke: #ddd;
+  shape-rendering: crispEdges;
+  vector-effect: non-scaling-stroke;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.nodes text {
+  color: black;
+  font: 10px sans-serif;
+}
+
+#info_pane {
+    border: 1px solid blue;
+    height: 200px;
+}
+
+#graph {
+    border: 1px solid blue;
+    height: 75vh;
+    width: 100%;
+}
+
