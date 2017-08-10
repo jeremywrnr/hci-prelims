@@ -21,6 +21,7 @@ a, a:visited {
 
 a:hover, a:focus {
   text-decoration: underline;
+  background-color: azure;
   color: #2a7ae2;
 }
 

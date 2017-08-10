@@ -1,3 +1,4 @@
+require "JSON"
 require "yaml"
 require "pp"
 
@@ -8,3 +9,4 @@ data = YAML.load(File.read("./papers.yaml"))
 
 PP.pp data
 
+JSON.load(data)

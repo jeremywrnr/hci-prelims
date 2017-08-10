@@ -1,6 +1,6 @@
 ---
 layout: post
-title: from oldest to newest
+title: oldest to newest
 ---
 
 related: [from newest to oldest]({{ site.baseurl }}/rev-time)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: from authors a-z
+title: by author
 ---
 
 {% assign list = site.data.papers.papers | sort:'author' %}

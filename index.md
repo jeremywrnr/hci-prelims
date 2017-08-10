@@ -4,6 +4,7 @@ layout: default
 
 - [by author]({{ site.baseurl }}/authors)
 - [by year]({{ site.baseurl }}/time)
+- [by conf]({{ site.baseurl }}/conf)
 
 ### new!
 - [graph]({{ site.baseurl }}/graph), [source](https://github.com/ssterman/prelim_viz)
@@ -20,6 +21,5 @@ layout: default
 
 <!--todos-->
 <!--- [by topic]({{ site.baseurl }}/topics)-->
-<!--- [by publisher]({{ site.baseurl }}/publishers)-->
 <!--- [by time (des)]({{ site.baseurl }}/rev-time)-->
 <!--other more interesting groupings-->
