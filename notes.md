@@ -1,6 +1,20 @@
 ---
 ---
 
+# interaction design research in hci
+
+jonathan zimmerman provides an in-depth review of design in hci, including what
+design means to both hci practitioners as well as professional designers. the
+notion that 'design is magic' is shot down, by presenting a model of how
+interaction design can exist on par with hci research design, with the
+contributions from these designers being much more than mere decoration and
+instead providing a whole process dump beyond just the final artifact. this
+allows for the shared consideration of what the preferred state that the design
+was moving towards was, and encourages discussion about whether this state is
+actually preferred, why, and what the tradeoffs are compared with other
+options. four metrics for evaluation of this type of research are presented:
+extensibility, relevance, invention, and process.
+
 # as we may think
 
 vannevar bush, immediately after the end of WW II, addresses fellow scientists
