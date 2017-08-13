@@ -1,6 +1,20 @@
 ---
 ---
 
+# at home with ubiquitous computing
+
+keith edwards and rebecca grinter present seven challenges that both designers
+and inbahitants of smart homes will have to face: the accidentally smart home
+(difficulty with diagonosing and configuring system behavior), impromptu
+interoperability (maintaining compatability between devices, both in a semantic
+and syntactic sense), not having a systems administrator, designing for
+domestic usage (rather than the office), social implications of aware home
+technologies (e.g. washer machines actually didn't lower workload, just raised
+expectations), reliability (microwave vs cpus), and finally inference in the
+presence of ambiguity (how 'smart' does our home really have to be?). motivated
+by the issue of balancing innovation/utility with the desire of a easy and
+calming domestic lifestyle.
+
 # interaction design research in hci
 
 jonathan zimmerman provides an in-depth review of design in hci, including what
