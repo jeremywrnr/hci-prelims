@@ -3,13 +3,13 @@ layout: post
 title: by publisher
 ---
 
-related: [from newest to oldest]({{ site.baseurl }}/rev-conf)
+related: [from oldest to newest]({{ site.baseurl }}/conf)
 
 {% assign conf = site.data.papers.papers | group_by: 'publisher' | sort: 'name' %}
 
 <ul>
 {% for c in conf %}
-    {% assign cyear = c.items | sort: "year" %}
+    {% assign cyear = c.items | sort: "year" | reverse %}
     {% for paper in cyear %}
     <li>
     {% if paper.link %}<a href="{{paper.link}}" target="_blank">{% endif %}
