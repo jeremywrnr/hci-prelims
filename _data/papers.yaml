@@ -39,6 +39,7 @@ papers:
     author: Ken Hinckley, Daniel Wigdor
     title: Input Technologies and Techniques
     link: https://drive.google.com/open?id=0B76vkOGLgqvjZUtBTzljOTd6NUE
+    publisher: book
     class: 160
   -
     year: 1983
@@ -74,12 +75,14 @@ papers:
     author: Nielsen
     title: How to Conduct a Heuristic Evaluation
     link: https://drive.google.com/a/berkeley.edu/file/d/0B76vkOGLgqvjZ2hUaHFOSmFHc1U/view?usp=sharing
+    publisher: web
     class: 160
   -
     year: 1994
     author: Nielsen
     title: 10 Usability Heuristics
     link: https://drive.google.com/open?id=0B76vkOGLgqvjS1RsLUVMZkM5MUk
+    publisher: web
     class: 160
   -
     year: 2009
@@ -264,6 +267,7 @@ papers:
     title: Exploring and Finding Information
     author: Pirolli
     link: https://drive.google.com/a/berkeley.edu/file/d/0ByJckhRq0l3UdTVPOFRORHVCR3c/view?usp=sharing
+    publisher: book
     class: 260
   -
     year: 2006
