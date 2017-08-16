@@ -1,6 +1,19 @@
 ---
 ---
 
+# how to conduct a heuristic evaluation
+
+jacob nielsen ('95) provides guidelines on how to perform a hueristic
+evaluation, which differs from a traditional user study. for example,
+evaluators (who are not necessarily target users of the system) must identify
+and reference specific design hueristics that the system violates, where a user
+study gathers more generic and unprincipled feedback on usability. another
+difference is that evaluators should be eagerly instructed on how to use the
+system, where users in a user study should be kept in dark as long as possible
+to find the pain points; where mistakes will be made. there is a tradeoff
+between how many evaluators you should have and the complexity of system, but
+in general from 3-5 is a good rule of thumb.
+
 # at home with ubiquitous computing
 
 keith edwards and rebecca grinter present seven challenges that both designers
