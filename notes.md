@@ -1,6 +1,31 @@
 ---
 ---
 
+# getting the design right and the right design
+
+bill buxton, u toronto/msr. they present results suggesting that users in user
+studies speak very positively about a design when they are presented with one
+design as compared to three functionally equivalent designs. additionally,
+people re less positive about a design when multiple are presented, suggesting
+that there is a soft rt of confirmation bias that users have- they want to
+please the evaluator, or perhaps because they are afraid of having the
+complaint reflect on their ability to use the tool. finally, there is a
+suggestion that users studies are effective methods for identifying problems,
+but not generating solutions.
+
+# [search user interfaces, ch 1](http://searchuserinterfaces.com/book/sui_ch1_design.html)
+
+marti hearst categorizes many facets of modern search interfaces along with
+their transformations over time, highlighting the attention to detail which
+carefully creates the refined experience of using search engines. search is a
+mentally intensive task so each modification needs to be considered in the
+frame of how a small error can have significant user experience impacts. she
+highlights several suggestions for the design of search user interfaces: Offer
+efficient and informative feedback, Balance user control with automated
+actions, Reduce short-term memory load, Provide shortcuts, Reduce errors,
+Recognize the importance of small details, and Recognize the importance of
+aesthetics.
+
 # how to conduct a heuristic evaluation
 
 jacob nielsen ('95) provides guidelines on how to perform a hueristic
