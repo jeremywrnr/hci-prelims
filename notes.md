@@ -1,6 +1,21 @@
 ---
 ---
 
+# design principles for visualizations
+
+maneesh agarwal et al. presents a three stage process for visual design
+principles: 1. identify design principles, 2. instantiate design principles,
+and 3. evaluate design principles. the most effective visualizations capitalize
+on human ability to process images. design principles connect the visual design
+of a visualization with the viewer's perception and cognition of the underlying
+information the visualization is meant to convey. identifying and formulating
+good design principles often requires analyzing the best hand-designed
+visualizations, examining prior research on the perception and cognition of
+visualizations, and, when necessary, conducting user studies into how visual
+techniques affect perception and cognition. given a set of design rules and
+quantitative evaluation criteria, we can use procedural techniques and/or
+energy optimization to build automated visualization-design systems.
+
 # getting the design right and the right design
 
 bill buxton, u toronto/msr. they present results suggesting that users in user
