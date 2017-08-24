@@ -9,6 +9,7 @@ layout: default
 ### new!
 - [graph]({{ site.baseurl }}/graph), [source](https://github.com/ssterman/prelim_viz)
 - [task analysis]({{ site.baseurl }}/assets/Task-Analysis-Diagram.pdf)
+- [statistics]({{ site.baseurl }}/assets/prelim-stats.pdf)
 
 ### extra
 - [past 160 exams](https://drive.google.com/drive/u/0/folders/0B62uerceUVsuczdhQXpMMDloVUE)
