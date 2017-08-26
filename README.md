@@ -6,9 +6,9 @@ visualization of the conceptual connections between them. there is also a
 [simple ruby script](/_data/parse.rb) to parse the YAML in order to help with
 this.
 
-- from: http://people.eecs.berkeley.edu/~bjoern/prelims
-- ERB templating: http://www.stuartellis.name/articles/erb/
-- [link to raw YAML of papers](/_data/papers.yaml)
+- [list from bjoern](http://people.eecs.berkeley.edu/~bjoern/prelims)
+- [ERB templating](http://www.stuartellis.name/articles/erb/)
+- [raw papers YAML](/_data/papers.yaml)
 
 
 ### overview
@@ -19,6 +19,11 @@ of this course: You will be responsible for the following core readings from
 CS260B (note that we don't currently have the last offering of this course
 online - just refer to the list below). You'll be responsible for the following
 papers that are not covered in CS160 or CS260 (yet).
+
+### development
+
+    bundle                      # install gems
+    bundle exec jekyll serve -w # run server
 
 [view]:https://jeremywrnr.com/hci-prelims/
 
