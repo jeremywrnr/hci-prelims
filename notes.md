@@ -1,4 +1,6 @@
 ---
+layout: post
+title: notes
 ---
 
 # design principles for visualizations
