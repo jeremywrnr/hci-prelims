@@ -13,13 +13,6 @@ papers:
     class: 160
     year: 2013
   -
-    year: 1985
-    author: Edwin Hutchins, James Hollan, Don Norman
-    title: Direct Manipulation Interfaces
-    link: https://drive.google.com/a/berkeley.edu/file/d/0B76vkOGLgqvjOWtTaVNoOG9aaE0/view?usp=sharing
-    publisher: CHI
-    class: 160
-  -
     year: 2000
     author: Raskin
     title: "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention"
