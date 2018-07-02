@@ -3,6 +3,10 @@ layout: post
 title: notes
 ---
 
+<style>
+html { max-width: 700px; }
+</style>
+
 # design principles for visualizations
 
 maneesh agarwal et al. presents a three stage process for visual design
