@@ -7,7 +7,7 @@ layout: default
 - [by conf]({{ site.baseurl }}/conf)
 
 ### materials
-- [paper clusers]({{ site.baseurl }}/graph)
+- [paper clusters]({{ site.baseurl }}/graph)
 - [task analysis]({{ site.baseurl }}/assets/Task-Analysis-Diagram.pdf)
 - [statistics]({{ site.baseurl }}/assets/prelim-stats.pdf)
 - [2d fitts](https://www.billbuxton.com/fitts92.html)
