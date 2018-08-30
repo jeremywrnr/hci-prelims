@@ -3,7 +3,8 @@
     {
       "id": "1",
       "author": "Don Norman",
-      "title": "The Design of Everyday Things. Chapter 1: The Psychology of Everyday Things (2013 version)",
+      "title":
+        "The Design of Everyday Things. Chapter 1: The Psychology of Everyday Things (2013 version)",
       "class": "160",
       "year": "2013"
     },
@@ -12,14 +13,16 @@
       "id": "2",
       "author": "Edwin Hutchins, James Hollan, Don Norman",
       "title": "Direct Manipulation Interfaces",
-      "link": "https://drive.google.com/a/berkeley.edu/file/d/0B76vkOGLgqvjOWtTaVNoOG9aaE0/view?usp=sharing",
+      "link":
+        "https://drive.google.com/a/berkeley.edu/file/d/0B76vkOGLgqvjOWtTaVNoOG9aaE0/view?usp=sharing",
       "class": "160"
     },
     {
       "year": "2000",
       "id": "3",
       "author": "Raskin",
-      "title": "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention, 3,4 - Quantification.",
+      "title":
+        "The Humane Interface, Chapter 2: Cognetics and the Locus of Attention, 3,4 - Quantification.",
       "class": "160"
     },
     {
@@ -40,21 +43,24 @@
       "year": "1983",
       "id": "6",
       "author": "Stuart Card, Thomas Moran, Allen Newell",
-      "title": "The Model Human Processor. Ch2 of The Psychology of Human-Computer Interaction.",
+      "title":
+        "The Model Human Processor. Ch2 of The Psychology of Human-Computer Interaction.",
       "class": "160"
     },
     {
       "year": "1999",
       "id": "7",
       "author": "Stuart Card, Jock Mackinlay, Ben Schneiderman",
-      "title": "Readings in Information Visualization. Chapter 1- Information Visualization.",
+      "title":
+        "Readings in Information Visualization. Chapter 1- Information Visualization.",
       "class": "160"
     },
     {
       "year": "1977",
       "id": "8",
       "author": "David Martin",
-      "title": "Doing Psychology Experiments. (Chapter 2 and Chapter 12 are especially relevant, but the whole book is worthwhile. Alternatively: other readings on the scientific method and inferential statistics.)",
+      "title":
+        "Doing Psychology Experiments. (Chapter 2 and Chapter 12 are especially relevant, but the whole book is worthwhile. Alternatively: other readings on the scientific method and inferential statistics.)",
       "class": "160"
     },
     {
@@ -82,7 +88,8 @@
       "year": "2009",
       "id": "12",
       "author": "Olsen",
-      "title": "Building Interactive Systems, Ch 1 + 3:Architectures of Interactive Systems + Event Handling",
+      "title":
+        "Building Interactive Systems, Ch 1 + 3:Architectures of Interactive Systems + Event Handling",
       "link": "https://dl.acm.org/citation.cfm?id=1538698",
       "class": "160"
     },
@@ -90,7 +97,8 @@
       "year": "2010",
       "id": "13",
       "author": "Ben Shneiderman, Plaisant, Coen, Jacobs",
-      "title": "Designing the User Interface. Chapter 9, Collaboration and Social Media Participation.",
+      "title":
+        "Designing the User Interface. Chapter 9, Collaboration and Social Media Participation.",
       "class": "160"
     },
     {
@@ -106,7 +114,8 @@
       "title": "Direct Manipulation Interfaces",
       "id": "15",
       "author": "Edwin L. Hutchins",
-      "publisher": "James D. Hollan, and Donald A. Norman, Human-Computer Interaction, 1(4), 1985, pp. 311-338.",
+      "publisher":
+        "James D. Hollan, and Donald A. Norman, Human-Computer Interaction, 1(4), 1985, pp. 311-338.",
       "class": "260"
     },
     {
@@ -114,7 +123,8 @@
       "title": "User Technology: From Pointing to Pondering",
       "id": "16",
       "author": "Stuart K. Card and Thomas P. Moran",
-      "publisher": "ACM Conference on the history of personal workstations, 1986, pp. 183 - 98.",
+      "publisher":
+        "ACM Conference on the history of personal workstations, 1986, pp. 183 - 98.",
       "class": "260"
     },
     {
@@ -130,7 +140,8 @@
       "title": "At Home with Ubiquitous Computing: Seven Challenges",
       "id": "18",
       "author": "Edwards",
-      "publisher": "W. K. and Grinter, R. E. In Proceeding of Ubicomp 2001, p. 256-272.",
+      "publisher":
+        "W. K. and Grinter, R. E. In Proceeding of Ubicomp 2001, p. 256-272.",
       "class": "260"
     },
     {
@@ -138,7 +149,8 @@
       "title": "A Morphological analysis of the design space of input devices",
       "id": "19",
       "author": "Stuart K. Card",
-      "publisher": "Jock D. Mackinlay, and George G. Robertson, ACM Transactions on Information Systems, Volume 9, Issue 2, 1992, pp. 99-122.",
+      "publisher":
+        "Jock D. Mackinlay, and George G. Robertson, ACM Transactions on Information Systems, Volume 9, Issue 2, 1992, pp. 99-122.",
       "class": "260"
     },
     {
@@ -146,7 +158,8 @@
       "title": "Interacting with paper on the DigitalDesk",
       "id": "20",
       "author": "Pierre Wellner",
-      "publisher": "Communications of the ACM 36, Issue 7 (Jul. 1993), pp.87-96.",
+      "publisher":
+        "Communications of the ACM 36, Issue 7 (Jul. 1993), pp.87-96.",
       "link": "https://dl.acm.org/citation.cfm?id=159630",
       "class": "260"
     },
@@ -154,7 +167,8 @@
       "year": "2005",
       "id": "21",
       "author": "Jefferson Han",
-      "title": "Low-cost multi-touch sensing through frustrated total internal reflection.",
+      "title":
+        "Low-cost multi-touch sensing through frustrated total internal reflection.",
       "publisher": "In Proceedings of UIST 2005.",
       "pages": "115-118",
       "class": "260"
@@ -188,7 +202,8 @@
       "title": "Practical Guide to Controlled Experiments on the Web",
       "id": "25",
       "author": "Ron Kohavi",
-      "publisher": "Randal M. Henne, Dan Sommerfield, in Proceedings of KDD07, 2007.",
+      "publisher":
+        "Randal M. Henne, Dan Sommerfield, in Proceedings of KDD07, 2007.",
       "class": "260"
     },
     {
@@ -208,7 +223,8 @@
       "class": "260"
     },
     {
-      "title": "Getting the Right Design and the Design Right- Testing Many Is Better Than One",
+      "title":
+        "Getting the Right Design and the Design Right- Testing Many Is Better Than One",
       "id": "28",
       "author": "Maryam Tohidi, William Buxton, Ronald Baecker, Abigail Sellen",
       "publisher": "CHI",
@@ -247,7 +263,8 @@
       "title": "Past, Present, and Future of User Interface Software Tools",
       "id": "32",
       "author": "Brad Myers, Scott E. Hudson, Randy Pausch",
-      "publisher": "ACM Transactions on Computer-Human Interaction, March 2000, pp. 3 - 28.",
+      "publisher":
+        "ACM Transactions on Computer-Human Interaction, March 2000, pp. 3 - 28.",
       "class": "260"
     },
     {
@@ -261,7 +278,8 @@
     },
     {
       "year": "2010",
-      "title": "Example-centric programming: integrating web search into the development environment.",
+      "title":
+        "Example-centric programming: integrating web search into the development environment.",
       "id": "34",
       "author": "J. Brandt, Dontcheva, M., Weskamp, M., and Klemmer, S. R.",
       "publisher": "In Proceedings of CHI 2010,pp. 513-522.",
@@ -281,7 +299,8 @@
       "id": "36",
       "author": "Pirolli",
       "publisher": "Chapter 7 in HCI Models, Theories, and Frameworks",
-      "link": "http://hcicourses.stanford.edu/cs376/2014/readings/Exploring_and_Finding_Information.pdf",
+      "link":
+        "http://hcicourses.stanford.edu/cs376/2014/readings/Exploring_and_Finding_Information.pdf",
       "class": "260"
     },
     {
@@ -289,14 +308,16 @@
       "title": "Reflective Physical Prototyping through Integrated Design",
       "id": "37",
       "author": "Test",
-      "publisher": "and Analysis, Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, and Jennifer Gee. In Proceedings of UIST 2006.",
+      "publisher":
+        "and Analysis, Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, and Jennifer Gee. In Proceedings of UIST 2006.",
       "class": "260"
     },
     {
       "year": "2007",
       "id": "38",
       "author": "J Zimmerman, J. Forlizzi, and S. Evenson,",
-      "title": "Research through design as a method for interaction design research in HCI",
+      "title":
+        "Research through design as a method for interaction design research in HCI",
       "link": "https://dl.acm.org/citation.cfm?id=1240704",
       "publisher": "CHI 2007",
       "pages": "493–502",
@@ -322,7 +343,8 @@
       "year": "2010",
       "id": "41",
       "author": "Dow et al",
-      "title": "Parallel prototyping leads to better design results more divergence, and increased self-efficacy ,",
+      "title":
+        "Parallel prototyping leads to better design results more divergence, and increased self-efficacy ,",
       "publisher": "TOCHI 2010",
       "class": "bonus"
     },
@@ -338,24 +360,65 @@
       "year": "1997",
       "id": "43",
       "author": "Ishii H., and Ullmer, B.",
-      "title": "Tangible Bits: Toward Seamless Interfaces between People, Bits and Atoms",
+      "title":
+        "Tangible Bits: Toward Seamless Interfaces between People, Bits and Atoms",
       "publisher": "CHI 1997",
       "class": "bonus"
-    } 
+    }
   ],
   "links": [
-    {"source": "43", "target": "2", "idea": "extending direct manipulation from ideas to physical reality, e.g optics metaphor"},
-    {"source": "43", "target": "27", "idea": "we know more than we know; muscle memory"},
-    {"source": "43", "target": "17", "idea": "different visions of invisible tech; ubicomp"},
-    {"source": "43", "target": "30", "idea": "when does something get foregrounded; who decides"}, 
-    {"source": "30", "target": "2", "idea": "combining direct manipulation with automated behaviors"},
-    {"source": "30", "target": "3", "idea": "locus of attention in action"}, 
-    {"source": "43", "target": "3", "idea": "locus of attention in action"}, 
-    {"source": "23", "target": "17", "idea": "a physical manifestation of groupware; colocated collaboration w/ multiple people"},
+    {
+      "source": "43",
+      "target": "2",
+      "idea":
+        "extending direct manipulation from ideas to physical reality, e.g optics metaphor"
+    },
+    {
+      "source": "43",
+      "target": "27",
+      "idea": "we know more than we know; muscle memory"
+    },
+    {
+      "source": "43",
+      "target": "17",
+      "idea": "different visions of invisible tech; ubicomp"
+    },
+    {
+      "source": "43",
+      "target": "30",
+      "idea": "when does something get foregrounded; who decides"
+    },
+    {
+      "source": "30",
+      "target": "2",
+      "idea": "combining direct manipulation with automated behaviors"
+    },
+    {"source": "30", "target": "3", "idea": "locus of attention in action"},
+    {"source": "43", "target": "3", "idea": "locus of attention in action"},
+    {
+      "source": "23",
+      "target": "17",
+      "idea":
+        "a physical manifestation of groupware; colocated collaboration w/ multiple people"
+    },
     {"source": "23", "target": "22", "idea": "we <3 email"},
-    {"source": "11", "target": "23", "idea": "interfaces are hard; here's how to think about them"},
+    {
+      "source": "11",
+      "target": "23",
+      "idea": "interfaces are hard; here's how to think about them"
+    },
     {"source": "11", "target": "30", "idea": "exiting gracefully"},
-    {"source": "2", "target": "22", "idea": "exploring inherent limitations of replicating real world/ existing mechanisms of thought"},
-    {"source": "30", "target": "22", "idea": "benefits of automation/tech over the manual/unaided; e.g. google hangouts autofocus"}
+    {
+      "source": "2",
+      "target": "22",
+      "idea":
+        "exploring inherent limitations of replicating real world/ existing mechanisms of thought"
+    },
+    {
+      "source": "30",
+      "target": "22",
+      "idea":
+        "benefits of automation/tech over the manual/unaided; e.g. google hangouts autofocus"
+    }
   ]
 }

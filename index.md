@@ -6,8 +6,8 @@ layout: default
 - [by year]({{ site.baseurl }}/time)
 - [by conf]({{ site.baseurl }}/conf)
 
-### new!
-- [graph]({{ site.baseurl }}/graph), [source](https://github.com/ssterman/prelim_viz)
+### materials
+- [paper graph]({{ site.baseurl }}/graph), [source](https://github.com/ssterman/prelim_viz)
 - [task analysis]({{ site.baseurl }}/assets/Task-Analysis-Diagram.pdf)
 - [statistics]({{ site.baseurl }}/assets/prelim-stats.pdf)
 - [2d fitts](https://www.billbuxton.com/fitts92.html)
@@ -21,7 +21,3 @@ layout: default
 - [from bjoern](http://people.eecs.berkeley.edu/~bjoern/prelims)
 - [from canny](https://people.eecs.berkeley.edu/~jfc/hci-prelim-syllabus.html)
 
-<!--todos-->
-<!--- [by topic]({{ site.baseurl }}/topics)-->
-<!--- [by time (des)]({{ site.baseurl }}/rev-time)-->
-<!--other more interesting groupings-->

@@ -1,33 +1,34 @@
-.links line {
-  stroke: #999;
-  stroke-opacity: 0.6;
+svg {
+  background-color: azure;
 }
 
-.axis line {
-  fill: none;
-  stroke: #ddd;
-  shape-rendering: crispEdges;
-  vector-effect: non-scaling-stroke;
+.links line {
+  stroke: black;
+  stroke-width: 10px;
+  stroke-opacity: 0.6;
+}
+.links line:hover {
+  stroke: red;
+  stroke-opacity: 0.8;
 }
 
 .nodes circle {
-  stroke: #fff;
-  stroke-width: 1.5px;
+  stroke-width: 2px;
+  stroke: white;
+  fill: black;
+}
+.nodes circle:hover {
+  stroke: red;
+  fill: #fee;
 }
 
-.nodes text {
-  color: black;
-  font: 10px sans-serif;
+#container {
+  margin: 1em 4em 1em 0em;
+  height: 400px;
+  width: 100%;
 }
 
-#info_pane {
-    border: 1px solid blue;
-    height: 200px;
+p {
+  background-color: azure;
+  padding: 1em;
 }
-
-#graph {
-    border: 1px solid blue;
-    height: 75vh;
-    width: 100%;
-}
-
