@@ -13,6 +13,7 @@ layout: default
 - [2d fitts](https://www.billbuxton.com/fitts92.html)
 
 ### extra
+- [2017 questions](https://molecule.github.io/post/prelims%20from%20my%20perspective/)
 - [past 160 exams](https://drive.google.com/drive/u/0/folders/0B62uerceUVsuczdhQXpMMDloVUE)
 - [past questions](https://www2.eecs.berkeley.edu/Grads/CS/Prelims/hciqu.html)
 - [google drive](https://drive.google.com/drive/u/2/folders/0B76vkOGLgqvjcGVWWmZNS0NFeE0)
