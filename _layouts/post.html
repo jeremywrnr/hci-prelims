@@ -2,8 +2,22 @@
 layout: default
 ---
 
+<p>
+  view by:
+  <a href="{{ site.baseurl }}/authors">author</a>
+  | <a href="{{ site.baseurl }}/time">year</a>
+  | <a href="{{ site.baseurl }}/conf">publisher</a>
+</p>
+
 <span class="post-title" >{{ page.title }}</span>
 
 {{ content }}
 
-{% comment %} include list in page: https://jekyllrb.com/docs/includes/ {% endcomment %}
+others
+
+<ul>
+  <li><a href="http://hci.berkeley.edu/prelims.html">updated hci site, ~2019</a></li>
+  <li><a href="http://people.eecs.berkeley.edu/~bjoern/prelims">björn hartmann, ~2015</a></li>
+  <li><a href="https://people.eecs.berkeley.edu/~jfc/hci-prelim-syllabus.html">john canny, ~2002</a></li>
+</ul>
+
