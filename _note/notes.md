@@ -7,6 +7,17 @@ title: notes
 html { max-width: 700px; }
 </style>
 
+### materials
+- [paper clusters]({{ site.baseurl }}/graph)
+- [task analysis]({{ site.baseurl }}/assets/Task-Analysis-Diagram.pdf)
+- [statistics]({{ site.baseurl }}/assets/prelim-stats.pdf)
+- [2d fitts](https://www.billbuxton.com/fitts92.html)
+
+### extra
+- [2017 questions](https://molecule.github.io/post/prelims%20from%20my%20perspective/)
+- [past 160 exams](https://drive.google.com/drive/u/0/folders/0B62uerceUVsuczdhQXpMMDloVUE)
+- [past questions](https://www2.eecs.berkeley.edu/Grads/CS/Prelims/hciqu.html)
+
 # design principles for visualizations
 
 maneesh agarwal et al. presents a three stage process for visual design
