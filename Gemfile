@@ -7,4 +7,4 @@ ruby RUBY_VERSION
 #
 #     bundle exec jekyll serve
 #
-gem "jekyll", "3.3.1"
+gem "jekyll", "3.6.3"
