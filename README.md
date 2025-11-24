@@ -7,7 +7,6 @@ visualization of the conceptual connections between them. there is also a
 this.
 
 - [list from bjoern](http://people.eecs.berkeley.edu/~bjoern/prelims)
-- [ERB templating](http://www.stuartellis.name/articles/erb/)
 - [raw papers YAML](/_data/papers.yaml)
 
 
