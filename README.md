@@ -21,8 +21,8 @@ papers that are not covered in CS160 or CS260 (yet).
 
 ### development
 
-    bundle                      # install gems
-    bundle exec jekyll serve -w # run server
+    bundle      # install gems
+    just site   # run server
 
 [view]:https://jeremywrnr.com/hci-prelims/
 

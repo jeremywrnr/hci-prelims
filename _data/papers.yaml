@@ -7,7 +7,7 @@
 papers:
   -
     year: 2013
-    author: Don Norman
+    author: Norman
     title: "The Design of Everyday Things, Ch. 1: The Psychology of Everyday Things (2013 ed.)"
     link: https://www.jnd.org/books/design-of-everyday-things-revised/
     publisher: book
@@ -26,32 +26,32 @@ papers:
     publisher: book
   -
     year: 2012
-    author: Ken Hinckley, Daniel Wigdor
+    author: Hinckley
     title: Input Technologies and Techniques
     link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/inputHCI2012.pdf
     publisher: book
   -
     year: 1983
-    author: Stuart Card, Thomas Moran, Allen Newell
+    author: Card
     title: The Model Human Processor. Ch2 of The Psychology of Human-Computer Interaction
     link: https://dl.acm.org/doi/book/10.5555/578523
     publisher: book
   -
     year: 1999
-    author: Stuart Card, Jock Mackinlay, Ben Schneiderman
+    author: Card
     title: Readings in Information Visualization. Chapter 1 - Information Visualization
     link: https://doi.org/10.1016/B978-1-55860-533-3.X5000-9
     publisher: book
   -
     year: 1977
-    author: David Martin
+    author: Martin
     title: "Doing Psychology Experiments. (Ch. 2, 7, 12)"
     note: 2 and 12 are especially relevant, but the whole book is worthwhile. Alternatively, other readings on the scientific method and inferential statistics
     link: https://www.worldcat.org/title/doing-psychology-experiments/oclc/2852950
     publisher: book
   -
     year: 1998
-    author: Hugh Beyer, Karen Holtzblatt
+    author: Beyer
     title: "Contextual Design, Ch. 3: Principles of Contextual Inquiry"
     link: https://doi.org/10.1016/B978-1-55860-411-4.X5000-5
     publisher: book
@@ -71,202 +71,202 @@ papers:
     year: 2009
     author: Olsen
     title: Building Interactive Systems, Ch 1 + 3:Architectures of Interactive Systems + Event Handling
-    link: https://www.amazon.com/Building-Interactive-Systems-Principles-Human-Computer/dp/142008342X
+    link: https://books.google.com/books/about/Building_Interactive_Systems.html?id=EDCVQAAACAAJ
     publisher: book
   -
     year: 2010
-    author: Ben Shneiderman, Plaisant, Coen, Jacobs
+    author: Shneiderman
     title: Designing the User Interface. Chapter 9, Collaboration and Social Media Participation
     link: https://www.pearson.com/en-us/subject-catalog/p/designing-the-user-interface-strategies-for-effective-human-computer-interaction/P200000003487
     publisher: book
   -
     year: 1945
+    author: Bush
     title: As We May Think
-    author: Vannevar Bush
     publisher: The Atlantic
     link: https://web.mit.edu/STS.035/www/PDFs/think.pdf
   -
     year: 1985
+    author: Hutchins
     title: Direct Manipulation Interfaces
-    author: Edwin L. Hutchins, James D. Hollan, and Donald A. Norman
     link: https://dl.acm.org/doi/abs/10.1207/s15327051hci0104_2
     publisher: CHI
     pages: 311-338
   -
     year: 1986
+    author: Card
     title: "User Technology: From Pointing to Pondering"
-    author: Stuart K. Card and Thomas P. Moran
     publisher: ACM Conference on the history of personal workstations
     link: https://dl.acm.org/doi/pdf/10.1145/61975.66925
     pages: 183-98
   -
     year: 1991
+    author: Weiser
     title: The Computer for the 21st Century
-    author: Mark Weiser
     publisher: Scientific American
     link: https://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf
   -
     year: 2001
+    author: Edwards
     title: "At Home with Ubiquitous Computing: Seven Challenges"
     link: https://faculty.cc.gatech.edu/~keith/pubs/ubicomp2001-challenges.pdf
-    author: Edwards W. K. and Grinter, R. E
     publisher: Ubicomp
     pages: 256-272
   -
     year: 1992
+    author: Card
     title: A Morphological analysis of the design space of input devices
     link: https://dl.acm.org/doi/10.1145/123078.128726
-    author: Stuart K. Card, Jock D. Mackinlay, and George G. Robertson
     publisher: TOIS
     pages: 99-122
   -
     year: 1993
+    author: Wellner
     title: Interacting with paper on the DigitalDesk
     link: https://doi.org/10.1145/159544.159630
-    author: Pierre Wellner
     publisher: CACM
     pages: 87-96
   -
     year: 2005
-    author: Jefferson Han
+    author: Han
     title: Low-cost multi-touch sensing through frustrated total internal reflection
     link: https://doi.org/10.1145/1095034.1095054
     publisher: UIST
     pages: 115-118
   -
     year: 1992
+    author: Hollan
     title: Beyond being there
-    author: Hollan J. and Stornetta, S
     link: https://doi.org/10.1145/142750.142769
     publisher: CHI
   -
     year: 1994
+    author: Grudin
     title: "Groupware and Social Dynamics: Eight Challenges for Developers"
     link: https://dl.acm.org/doi/10.1145/175222.175230
-    author: Jonathan Grudin
     publisher: CACM
   -
     year: 2008
+    author: von Ahn
     title: Designing games with a purpose
     link: https://cacm.acm.org/magazines/2008/8/5341-designing-games-with-a-purpose/fulltext
-    author: Lius von Ahn and Dabbish
     publisher: CACM
   -
     year: 2007
+    author: Kohavi
     title: Practical Guide to Controlled Experiments on the Web
     link: https://doi.org/10.1145/1281192.1281295
-    author: Ron Kohavi, Randal M. Henne, Dan Sommerfield
     publisher: KDD
   -
     year: 2007
+    author: Olsen
     title: Evaluating User Interface Systems Research
     link: https://dl.acm.org/doi/10.1145/1294211.1294256
-    author: D. R. Olsen
     publisher: UIST
   -
     year: 2006
+    author: Klemmer
     title: How Bodies Matter
     link: https://doi.org/10.1145/1142405.1142429
-    author: S.R. Klemmer, B. Hartmann, L. Takayama
     publisher: DIS
   -
     year: 2006
+    author: Tohidi
     title: Getting the Right Design and the Design Right- Testing Many Is Better Than One
     link: https://doi.org/10.1145/1124772.1124960
-    author: Maryam Tohidi, William Buxton, Ronald Baecker, Abigail Sellen
     publisher: CHI
     pages: 1243-1252
   -
     year: 2002
+    author: Shneiderman
     title: Creativity support tools
     link: https://cacm.acm.org/magazines/2002/10/20761-creativity-support-tools/fulltext
-    author: Ben Shneiderman
     publisher: CACM
     pages: 116-120
   -
     year: 1999
+    author: Horvitz
     title: Principles of Mixed-Initiative User Interfaces
     link: https://doi.org/10.1145/302979.303030
-    author: Eric Horvitz
     publisher: CHI
     pages: 159-166
   -
     year: 1992
+    author: Hollan
     title: Edit wear and read wear
     link: https://doi.org/10.1145/142750.142751
-    author: W. C. Hollan, J. D., Wroblewski, D., and McCandless, T. Hill
     publisher: CHI
   -
     year: 2000
+    author: Myers
     title: Past, Present, and Future of User Interface Software Tools
-    author: Brad Myers, Scott E. Hudson, Randy Pausch
     link: https://doi.org/10.1145/344949.344959
     publisher: TOCHI
     pages: 3-28
   -
     year: 2011
+    author: Ko
     title: The State of the Art in End-User Software Engineering
     link: https://doi.org/10.1145/1922649.1922658
     publisher: ACM Computing Surveys
-    author:  Andrew J. Ko
   -
     year: 2010
+    author: Brandt
     title: "Example-centric programming: integrating web search into the development environment"
     link: https://doi.org/10.1145/1753326.1753402
-    author: J. Brandt et al
     publisher: CHI
   -
     year: 2010
+    author: Hearst
     title: The Design of Search User Interfaces
     link: http://searchuserinterfaces.com/book/sui_ch1_design.html
-    author: Marti Hearst
     publisher: book
   -
     year: 2003
-    title: Exploring and Finding Information
     author: Pirolli
+    title: Exploring and Finding Information
     link: https://www.amazon.com/Information-Foraging-Theory-Interaction-Human-Centered/dp/0195173325
     publisher: book
   -
     year: 2006
+    author: Hartmann
     title: Reflective Physical Prototyping through Integrated Design, Test and Analysis
     link: https://doi.org/10.1145/1166253.1166300
-    author: Bjoern Hartmann, Scott R. Klemmer, Michael Bernstein, et al
     publisher: UIST
   -
     year: 2007
-    author: J Zimmerman, J. Forlizzi, and S. Evenson,
+    author: Zimmerman
     title: 'Research through design as a method for interaction design research in HCI'
     link: https://doi.org/10.1145/1240624.1240704
     publisher: CHI
     pages: 493–502
   -
     year: 2011
-    author: Agrawala, Li, Berthouzoz
+    author: Agrawala
     link: http://cacm.acm.org/magazines/2011/4/106586/fulltext
     title: Design Principles for Visual Communication
     publisher: CACM
   -
     year: 2010
-    author: Bernstein et al
+    author: Bernstein
     link: https://doi.org/10.1145/1866029.1866078
     title: Soylent a word processor with a crowd inside
     publisher: UIST
   -
     year: 2010
-    author: Dow et al
+    author: Dow
     link: https://doi.org/10.1145/1879831.1879836
     title: Parallel prototyping leads to better design results more divergence, and increased self-efficacy
     publisher: TOCHI
   -
     year: 2009
-    author: Gilbert and Karahalios
+    author: Gilbert
     link: https://doi.org/10.1145/1518701.1518736
     title: Predicting Tie Strength with Social Media
     publisher: CHI
   -
     year: 1997
-    author: Ishii H., and Ullmer, B.
+    author: Ishii
     link: https://doi.org/10.1145/258549.258715
     title: 'Tangible Bits: Toward Seamless Interfaces between People, Bits and Atoms'
     publisher: CHI
