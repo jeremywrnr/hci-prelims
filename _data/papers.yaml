@@ -28,7 +28,7 @@ papers:
     year: 2012
     author: Hinckley
     title: Input Technologies and Techniques
-    link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/inputHCI2012.pdf
+    link: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Input-Technologies-and-Techniques-HCI-Handbook-3rd-Edition.pdf
     publisher: book
   -
     year: 1983
@@ -53,7 +53,7 @@ papers:
     year: 1998
     author: Beyer
     title: "Contextual Design, Ch. 3: Principles of Contextual Inquiry"
-    link: https://doi.org/10.1016/B978-1-55860-411-4.X5000-5
+    link: https://hci.stanford.edu/courses/cs147/2025/au/readings/restricted/Contextual-Design-Chapter-3.pdf
     publisher: book
   -
     year: 1995
@@ -77,7 +77,7 @@ papers:
     year: 2010
     author: Shneiderman
     title: Designing the User Interface. Chapter 9, Collaboration and Social Media Participation
-    link: https://www.pearson.com/en-us/subject-catalog/p/designing-the-user-interface-strategies-for-effective-human-computer-interaction/P200000003487
+    link: https://www.pearson.com/en-us/subject-catalog/p/designing-the-user-interface-strategies-for-effective-human-computer-interaction/P200000003485/9780137503889
     publisher: book
   -
     year: 1945
@@ -89,7 +89,7 @@ papers:
     year: 1985
     author: Hutchins
     title: Direct Manipulation Interfaces
-    link: https://dl.acm.org/doi/abs/10.1207/s15327051hci0104_2
+    link: https://vis.csail.mit.edu/classes/6.859/readings/pdfs/Hutchins-DirectManipulationInterfaces.pdf
     publisher: CHI
     pages: 311-338
   -
@@ -97,7 +97,7 @@ papers:
     author: Card
     title: "User Technology: From Pointing to Pondering"
     publisher: ACM Conference on the history of personal workstations
-    link: https://dl.acm.org/doi/pdf/10.1145/61975.66925
+    link: https://dl.acm.org/doi/epdf/10.1145/61975.66925
     pages: 183-98
   -
     year: 1991
@@ -116,34 +116,34 @@ papers:
     year: 1992
     author: Card
     title: A Morphological analysis of the design space of input devices
-    link: https://dl.acm.org/doi/10.1145/123078.128726
+    link: https://dl.acm.org/doi/epdf/10.1145/123078.128726
     publisher: TOIS
     pages: 99-122
   -
     year: 1993
     author: Wellner
     title: Interacting with paper on the DigitalDesk
-    link: https://doi.org/10.1145/159544.159630
+    link: https://dl.acm.org/doi/epdf/10.1145/159544.159630
     publisher: CACM
     pages: 87-96
   -
     year: 2005
     author: Han
     title: Low-cost multi-touch sensing through frustrated total internal reflection
-    link: https://doi.org/10.1145/1095034.1095054
+    link: https://dl.acm.org/doi/epdf/10.1145/1095034.1095054
     publisher: UIST
     pages: 115-118
   -
     year: 1992
     author: Hollan
     title: Beyond being there
-    link: https://doi.org/10.1145/142750.142769
+    link: https://dl.acm.org/doi/epdf/10.1145/142750.142769
     publisher: CHI
   -
     year: 1994
     author: Grudin
     title: "Groupware and Social Dynamics: Eight Challenges for Developers"
-    link: https://dl.acm.org/doi/10.1145/175222.175230
+    link: https://dl.acm.org/doi/epdf/10.1145/175222.175230
     publisher: CACM
   -
     year: 2008
@@ -155,25 +155,25 @@ papers:
     year: 2007
     author: Kohavi
     title: Practical Guide to Controlled Experiments on the Web
-    link: https://doi.org/10.1145/1281192.1281295
+    link: https://dl.acm.org/doi/epdf/10.1145/1281192.1281295
     publisher: KDD
   -
     year: 2007
     author: Olsen
     title: Evaluating User Interface Systems Research
-    link: https://dl.acm.org/doi/10.1145/1294211.1294256
+    link: https://dl.acm.org/doi/epdf/10.1145/1294211.1294256
     publisher: UIST
   -
     year: 2006
     author: Klemmer
     title: How Bodies Matter
-    link: https://doi.org/10.1145/1142405.1142429
+    link: https://dl.acm.org/doi/epdf/10.1145/1142405.1142429
     publisher: DIS
   -
     year: 2006
     author: Tohidi
     title: Getting the Right Design and the Design Right- Testing Many Is Better Than One
-    link: https://doi.org/10.1145/1124772.1124960
+    link: https://dl.acm.org/doi/epdf/10.1145/1124772.1124960
     publisher: CHI
     pages: 1243-1252
   -
@@ -187,33 +187,33 @@ papers:
     year: 1999
     author: Horvitz
     title: Principles of Mixed-Initiative User Interfaces
-    link: https://doi.org/10.1145/302979.303030
+    link: https://dl.acm.org/doi/epdf/10.1145/302979.303030
     publisher: CHI
     pages: 159-166
   -
     year: 1992
     author: Hollan
     title: Edit wear and read wear
-    link: https://doi.org/10.1145/142750.142751
+    link: https://dl.acm.org/doi/epdf/10.1145/142750.142751
     publisher: CHI
   -
     year: 2000
     author: Myers
     title: Past, Present, and Future of User Interface Software Tools
-    link: https://doi.org/10.1145/344949.344959
+    link: https://dl.acm.org/doi/epdf/10.1145/344949.344959
     publisher: TOCHI
     pages: 3-28
   -
     year: 2011
     author: Ko
     title: The State of the Art in End-User Software Engineering
-    link: https://doi.org/10.1145/1922649.1922658
+    link: https://dl.acm.org/doi/epdf/10.1145/1922649.1922658
     publisher: ACM Computing Surveys
   -
     year: 2010
     author: Brandt
     title: "Example-centric programming: integrating web search into the development environment"
-    link: https://doi.org/10.1145/1753326.1753402
+    link: https://dl.acm.org/doi/epdf/10.1145/1753326.1753402
     publisher: CHI
   -
     year: 2010
@@ -231,13 +231,13 @@ papers:
     year: 2006
     author: Hartmann
     title: Reflective Physical Prototyping through Integrated Design, Test and Analysis
-    link: https://doi.org/10.1145/1166253.1166300
+    link: https://dl.acm.org/doi/epdf/10.1145/1166253.1166300
     publisher: UIST
   -
     year: 2007
     author: Zimmerman
     title: 'Research through design as a method for interaction design research in HCI'
-    link: https://doi.org/10.1145/1240624.1240704
+    link: https://dl.acm.org/doi/epdf/10.1145/1240624.1240704
     publisher: CHI
     pages: 493–502
   -
@@ -249,25 +249,25 @@ papers:
   -
     year: 2010
     author: Bernstein
-    link: https://doi.org/10.1145/1866029.1866078
+    link: https://dl.acm.org/doi/epdf/10.1145/1866029.1866078
     title: Soylent a word processor with a crowd inside
     publisher: UIST
   -
     year: 2010
     author: Dow
-    link: https://doi.org/10.1145/1879831.1879836
+    link: https://dl.acm.org/doi/epdf/10.1145/1879831.1879836
     title: Parallel prototyping leads to better design results more divergence, and increased self-efficacy
     publisher: TOCHI
   -
     year: 2009
     author: Gilbert
-    link: https://doi.org/10.1145/1518701.1518736
+    link: https://dl.acm.org/doi/epdf/10.1145/1518701.1518736
     title: Predicting Tie Strength with Social Media
     publisher: CHI
   -
     year: 1997
     author: Ishii
-    link: https://doi.org/10.1145/258549.258715
+    link: https://dl.acm.org/doi/epdf/10.1145/258549.258715
     title: 'Tangible Bits: Toward Seamless Interfaces between People, Bits and Atoms'
     publisher: CHI
 
